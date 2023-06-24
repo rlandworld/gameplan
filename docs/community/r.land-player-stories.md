@@ -2,6 +2,7 @@
 description: Introducing our R.Land Player Stories!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 1
 ---
 
 # 📖 R.Land Player Stories
@@ -84,7 +85,7 @@ It was funny, the aesthetics and the community made me not doubt much, besides I
 
 I am grateful that I have always been able to find a kind answer, smart advice or a word of encouragement in the bad days and in the worst.
 
-<figure><img src="/img/Story Contest Kopie.jpg" alt="" /><figcaption><p>Summary of the TOP-3 R.Land Player Story Contest Winners</p></figcaption></figure>
+<center><img src="/img/Story Contest Kopie.jpg" alt="" /><figcaption><p>Summary of the TOP-3 R.Land Player Story Contest Winners</p></figcaption></center>
 
 > Comment from the R.Land team:\
 > \

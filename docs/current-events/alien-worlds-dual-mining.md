@@ -2,6 +2,7 @@
 description: Introducing the Alien Worlds Dual-Mining Event!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 1
 ---
 
 # ⚒ Alien Worlds Dual-Mining

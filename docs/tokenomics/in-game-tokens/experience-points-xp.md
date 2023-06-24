@@ -2,11 +2,12 @@
 description: Introducing R.Land's In-Game Token "Experience Points"!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 3
 ---
 
 # 🟦 Experience Points (XP)
 
-<figure><img src="/img/XP Balance.PNG" alt="" /><figcaption><p>Example of Experience Points (XP)-Balance <br/>in your R.Land In-Game Wallet</p></figcaption></figure>
+<center><img src="/img/XP Balance.PNG" alt="" /><figcaption><p>Example of Experience Points (XP)-Balance <br/>in your R.Land In-Game Wallet</p></figcaption></center>
 
 ## What are Experience Points (XP)?
 

@@ -2,6 +2,7 @@
 description: Introducing R.Land's upcoming "Staking Game"
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 9
 ---
 
 # 📚 R.Land Staking Game

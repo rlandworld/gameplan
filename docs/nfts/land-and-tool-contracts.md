@@ -2,6 +2,7 @@
 description: Introducing Land and Tool Contract NFTs!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 2
 ---
 
 # 📜 Land and Tool Contracts
@@ -52,7 +53,7 @@ Want to get started? Get Contracts now! Available on [AtomicHub](https://wax.ato
 
 ## How to get Land Contracts?
 
-<figure><img src="/img/All_Land_Contracts_rGas.jpg" alt="" /><figcaption><p>All Land Contract Rarities from Common to Mythic (<mark style={{ color:'red' }}>rGas</mark> Variant)</p></figcaption></figure>
+<center><img src="/img/All_Land_Contracts_rGas.jpg" alt="" /><figcaption><p>All Land Contract Rarities from Common to Mythic (<mark style={{ color:'red' }}>rGas</mark> Variant)</p></figcaption></center>
 
 To get access to a specific Land Contract variant (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'yellow' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> or <mark style={{ color:'blue' }}>Pixel</mark>), you need to trade in an [Owner Shard](owner-shards-os.md) of the corresponding variant. The rarity of the Land Contract will be the same as the rarity of the used [Owner Shard](owner-shards-os.md).
 
@@ -83,7 +84,7 @@ Trade-Ins for Land Contracts can be done directly on [R.Land/tradein](https://r.
 
 ## How to get Tool Contracts?&#x20;
 
-<figure><img src="/img/All_Tool_Contracts.jpg" alt="" /><figcaption><p>All Tool Contract Rarities from Wood (Common) to Black Diamond (Mythic)</p></figcaption></figure>
+<center><img src="/img/All_Tool_Contracts.jpg" alt="" /><figcaption><p>All Tool Contract Rarities from Wood (Common) to Black Diamond (Mythic)</p></figcaption></center>
 
 In order to get access to Tool Contracts, you need to trade in either [BIT-Tokens](/tokenomics/bit-token) or [BIT-NFTs](bit-nfts.md):
 
@@ -204,11 +205,11 @@ Before purchasing ownership, make sure to have the required amount of [BIT-Token
 
 <div>
 
-<figure><img src="/img/ticket_alloy_mythic-fd68cde1_comp (1).webp" alt="" /><figcaption><p><mark style={{ color:'yellow' }}>Alloy</mark> Land Bonus Ticket (Mythic)</p></figcaption></figure>
+<center><img src="/img/ticket_alloy_mythic-fd68cde1_comp (1).webp" alt="" /><figcaption><p><mark style={{ color:'yellow' }}>Alloy</mark> Land Bonus Ticket (Mythic)</p></figcaption></center>
 
  
 
-<figure><img src="/img/ticket_axe_mythic-3c440664_comp.webp" alt="" /><figcaption><p><mark style={{ color:'purple' }}>Black Diamond</mark> Pickaxe Bonus Ticket (Mythic)</p></figcaption></figure>
+<center><img src="/img/ticket_axe_mythic-3c440664_comp.webp" alt="" /><figcaption><p><mark style={{ color:'purple' }}>Black Diamond</mark> Pickaxe Bonus Ticket (Mythic)</p></figcaption></center>
 
 </div>
 

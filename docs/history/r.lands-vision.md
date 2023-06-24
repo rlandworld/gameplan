@@ -2,6 +2,7 @@
 description: Get to know R.Land's vision!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 2
 ---
 
 # 🔭 R.Land's Vision

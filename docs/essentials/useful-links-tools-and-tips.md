@@ -2,6 +2,7 @@
 description: Introducing useful Links and Tools for the R.Land metaverse!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 4
 ---
 
 # ☝ Useful Links, Tools and Tips
@@ -39,13 +40,13 @@ _Display_: BIT Token \
 _Image_: https://r.land/bit/bit\_multi\_125.webp
 :::
 
-<figure><img src="/img/add BIT.PNG" alt="" /><figcaption><p>Adding "BIT-Token" to your WAX Wallet</p></figcaption></figure>
+<center><img src="/img/add BIT.PNG" alt="" /><figcaption><p>Adding "BIT-Token" to your WAX Wallet</p></figcaption></center>
 
 ### Tip #2: Add R.Land's accounts as friends in AtomicHub!
 
 Did you know? If you add official R.Land wallet addresses like `claim.rland` as a friend to your [AtomicHub](https://wax.atomichub.io/friends) account, the account name will show up automatically when you setup a transfer and start typing. By doing this so, you can avoid typos and potentially losing your valuable assets.
 
-<figure><img src="/img/Find Friends.PNG" alt="" /><figcaption><p>Adding "claim.rland" as a friend in AtomicHub</p></figcaption></figure>
+<center><img src="/img/Find Friends.PNG" alt="" /><figcaption><p>Adding "claim.rland" as a friend in AtomicHub</p></figcaption></center>
 
 This also works for the other important R.Land wallet addresses like `mint.rland`, `stake.rland` etc.
 

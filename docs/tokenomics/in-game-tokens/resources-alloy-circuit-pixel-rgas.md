@@ -2,6 +2,7 @@
 description: Introducing R.Land's Resources "Alloy", "Circuit", "Pixel" and "rGas"!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 1
 ---
 
 # 🟧 Resources (Alloy,Circuit,Pixel,rGas)
@@ -16,11 +17,11 @@ coverY: 0
 
  
 
-<figure><img src="/img/Pixel.webp" alt="" /><figcaption><p>Pixel</p></figcaption></figure>
+<center><img src="/img/Pixel.webp" alt="" /><figcaption><p>Pixel</p></figcaption></center>
 
  
 
-<figure><img src="/img/rGas.webp" alt="" /><figcaption><p>rGas</p></figcaption></figure>
+<center><img src="/img/rGas.webp" alt="" /><figcaption><p>rGas</p></figcaption></center>
 
 </div>
 
@@ -43,7 +44,7 @@ For example:&#x20;
 * _**12x**_ <mark style={{ color:'green' }}>Circuit</mark>, 24x <mark style={{ color:'yellow' }}>Alloy</mark>, 23x <mark style={{ color:'red' }}>rGas</mark> & 42x <mark style={{ color:'blue' }}>Pixel</mark> = _**12x**_ BIT-Token
 * 700x <mark style={{ color:'green' }}>Circuit</mark>, 139x <mark style={{ color:'yellow' }}>Alloy</mark>, 256x <mark style={{ color:'red' }}>rGas</mark> & _**99x**_ <mark style={{ color:'blue' }}>Pixel</mark> = _**99x**_ BIT-Tokens
 
-<figure><img src="/img/Resource Balance.PNG" alt="" /><figcaption><p>Example of Resources- and BIT-Balance <br/>in your R.Land In-Game Wallet</p></figcaption></figure>
+<center><img src="/img/Resource Balance.PNG" alt="" /><figcaption><p>Example of Resources- and BIT-Balance <br/>in your R.Land In-Game Wallet</p></figcaption></center>
 
 ## Why are Resources needed?
 

@@ -1,0 +1,8 @@
+{
+    "label": "Current Events",
+    "position": 5,
+    "link": {
+        "type": "generated-index",
+        "description": "Learn more about R.Land current and past events"
+    }
+}

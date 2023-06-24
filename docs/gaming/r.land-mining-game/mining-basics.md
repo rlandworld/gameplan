@@ -2,6 +2,7 @@
 description: New to the R.Land Mining Game? Here is what you need to know!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 1
 ---
 
 # 🆕 Mining Basics
@@ -13,21 +14,21 @@ Welcome to the R.Land Mining Game! If you are just starting out, you have two ba
 
 <div>
 
-<figure><img src="/img/rgas_mythic-50e2bc72_comp2.webp" alt="" /><figcaption><p>Land NFT: Mythic <mark style={{ color:'red' }}>rGas</mark></p></figcaption></figure>
+<center><img src="/img/rgas_mythic-50e2bc72_comp2.webp" alt="" /><figcaption><p>Land NFT: Mythic <mark style={{ color:'red' }}>rGas</mark></p></figcaption></center>
 
  
 
-<figure><img src="/img/axe_mythic-bcd869e5_comp2.webp" alt="" /><figcaption><p>Tool NFT: <br/>Mythic <mark style={{ color:'purple' }}>Black Diamond</mark> Pickaxe</p></figcaption></figure>
+<center><img src="/img/axe_mythic-bcd869e5_comp2.webp" alt="" /><figcaption><p>Tool NFT: <br/>Mythic <mark style={{ color:'purple' }}>Black Diamond</mark> Pickaxe</p></figcaption></center>
 
 </div>
 
 <div>
 
-<figure><img src="/img/contract_rgas_legendary-2ee9af38_comp2.webp" alt="" /><figcaption><p>Land Contract NFT: <br/>Mythic <mark style={{ color:'red' }}>rGas</mark></p></figcaption></figure>
+<center><img src="/img/contract_rgas_legendary-2ee9af38_comp2.webp" alt="" /><figcaption><p>Land Contract NFT: <br/>Mythic <mark style={{ color:'red' }}>rGas</mark></p></figcaption></center>
 
  
 
-<figure><img src="/img/contract_axe_mythic_comp2.png" alt="" /><figcaption><p>Tool Contract NFT:<br/>Mythic <mark style={{ color:'purple' }}>Black Diamond</mark> Pickaxe</p></figcaption></figure>
+<center><img src="/img/contract_axe_mythic_comp2.png" alt="" /><figcaption><p>Tool Contract NFT:<br/>Mythic <mark style={{ color:'purple' }}>Black Diamond</mark> Pickaxe</p></figcaption></center>
 
 </div>
 
@@ -40,11 +41,11 @@ Want to start mining with your own [Lands and Tools](/../nfts/lands-and-tools) r
 
 <div>
 
-<figure><img src="/img/thumbs_up_NOsmile_badge (1).png" alt="" /><figcaption><p>"Try out the Mining Game for free with <br/><a href="public-mining-free-to-play.md">Public Mining</a>. You can always upgrade <br/>to mining with your own R.Land <a href="broken-reference">NFTs</a> later!"<br/>- Dr. Baby Girl</p></figcaption></figure>
+<center><img src="/img/thumbs_up_NOsmile_badge (1).png" alt="" /><figcaption><p>"Try out the Mining Game for free with <br/><a href="public-mining-free-to-play.md">Public Mining</a>. You can always upgrade <br/>to mining with your own R.Land <a href="broken-reference">NFTs</a> later!"<br/>- Dr. Baby Girl</p></figcaption></center>
 
  
 
-<figure><img src="/img/Public Mining Comp.jpg" alt="" /><figcaption><p>Public Mining (Free-To-Play) - Coming Soon!</p></figcaption></figure>
+<center><img src="/img/Public Mining Comp.jpg" alt="" /><figcaption><p>Public Mining (Free-To-Play) - Coming Soon!</p></figcaption></center>
 
 </div>
 

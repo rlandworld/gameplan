@@ -2,6 +2,7 @@
 description: Introducing the Daily Actions-NFTs
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 5
 ---
 
 # 📅 Daily Actions-NFTs
@@ -16,7 +17,7 @@ coverY: 0
 
  
 
-<figure><img src="/img/1004 DA (1).webp" alt="" /><figcaption><p>Bonus Daily Action NFT (Mint #1004)</p></figcaption></figure>
+<center><img src="/img/1004 DA (1).webp" alt="" /><figcaption><p>Bonus Daily Action NFT (Mint #1004)</p></figcaption></center>
 
 </div>
 

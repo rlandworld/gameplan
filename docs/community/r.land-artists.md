@@ -2,25 +2,26 @@
 description: Introducing our R.Land-Artists Community!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 2
 ---
 
 # 🎨 R.Land-Artists
 
 <div>
 
-<figure><img src="/img/Mad_Axe_comp.webp" alt="" /><figcaption><p>"Medforc Inc. <br/><mark style={{ color:'purple' }}>Black Diamond</mark> Axe"<br/>created by <br/>Carlos Medford</p></figcaption></figure>
+<center><img src="/img/Mad_Axe_comp.webp" alt="" /><figcaption><p>"Medforc Inc. <br/><mark style={{ color:'purple' }}>Black Diamond</mark> Axe"<br/>created by <br/>Carlos Medford</p></figcaption></center>
 
  
 
-<figure><img src="/img/Mad_Shard_comp.webp" alt="" /><figcaption><p>"The MAD Shard" <br/>created by <br/>Madcowdezz</p></figcaption></figure>
+<center><img src="/img/Mad_Shard_comp.webp" alt="" /><figcaption><p>"The MAD Shard" <br/>created by <br/>Madcowdezz</p></figcaption></center>
 
  
 
-<figure><img src="/img/May_Coin_Comp.webp" alt="" /><figcaption><p>"Raffle Coin <br/>May 2022" <br/>created by <br/>Weltraumduft</p></figcaption></figure>
+<center><img src="/img/May_Coin_Comp.webp" alt="" /><figcaption><p>"Raffle Coin <br/>May 2022" <br/>created by <br/>Weltraumduft</p></figcaption></center>
 
  
 
-<figure><img src="/img/October_Coin_comp.webp" alt="" /><figcaption><p>"Raffle Coin<br/> October 2022" <br/>created by <br/>IvarTheBoneless</p></figcaption></figure>
+<center><img src="/img/October_Coin_comp.webp" alt="" /><figcaption><p>"Raffle Coin<br/> October 2022" <br/>created by <br/>IvarTheBoneless</p></figcaption></center>
 
 </div>
 
@@ -41,11 +42,11 @@ At the moment, the collection includes two schemas: [Fanmade NFTs](https://wax.a
 
 <div>
 
-<figure><img src="/img/Mad_Axe_comp.webp" alt="" /><figcaption><p>Fanmade NFT <br/>"Medforc Inc. <br/><mark style={{ color:'purple' }}>Black Diamond</mark> Axe"</p></figcaption></figure>
+<center><img src="/img/Mad_Axe_comp.webp" alt="" /><figcaption><p>Fanmade NFT <br/>"Medforc Inc. <br/><mark style={{ color:'purple' }}>Black Diamond</mark> Axe"</p></figcaption></center>
 
  
 
-<figure><img src="/img/Mad_Shard_comp.webp" alt="" /><figcaption><p>Fanmade NFT <br/>"The MAD Shard"</p></figcaption></figure>
+<center><img src="/img/Mad_Shard_comp.webp" alt="" /><figcaption><p>Fanmade NFT <br/>"The MAD Shard"</p></figcaption></center>
 
 </div>
 
@@ -61,15 +62,15 @@ Owners of [Fanmade NFTs](https://wax.atomichub.io/market?collection\_name=rlanda
 
 <div>
 
-<figure><img src="/img/May_Coin_Comp.webp" alt="" /><figcaption><p>Raffle Coin<br/>"May 2022"<br/>created by Weltraumduft</p></figcaption></figure>
+<center><img src="/img/May_Coin_Comp.webp" alt="" /><figcaption><p>Raffle Coin<br/>"May 2022"<br/>created by Weltraumduft</p></figcaption></center>
 
  
 
-<figure><img src="/img/October_Coin_comp.webp" alt="" /><figcaption><p>Raffle Coin<br/>"October 2022"<br/>created by<br/>IvarTheBoneless</p></figcaption></figure>
+<center><img src="/img/October_Coin_comp.webp" alt="" /><figcaption><p>Raffle Coin<br/>"October 2022"<br/>created by<br/>IvarTheBoneless</p></figcaption></center>
 
  
 
-<figure><img src="/img/June_Coin_comp.webp" alt="" /><figcaption><p>Raffle Coin<br/>"June 2022"<br/>created by Guty</p></figcaption></figure>
+<center><img src="/img/June_Coin_comp.webp" alt="" /><figcaption><p>Raffle Coin<br/>"June 2022"<br/>created by Guty</p></figcaption></center>
 
 </div>
 

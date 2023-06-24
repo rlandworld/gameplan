@@ -2,6 +2,7 @@
 description: Introducing the upcoming "Booster Pack Super Blend"!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 4
 ---
 
 # 🎆 Booster Pack Super Blend

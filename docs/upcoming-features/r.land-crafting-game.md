@@ -2,6 +2,7 @@
 description: Introducting R.Land's upcoming "Crafting Game"!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 10
 ---
 
 # 🔧 R.Land Crafting Game
@@ -10,33 +11,33 @@ The R.Land "Crafting Game" is an upcoming feature, which will allow players to c
 
 ### Sneak Peak #1: The Crafting Generator
 
-<figure><img src="/img/Generator Kopie.png" alt="" /><figcaption></figcaption></figure>
+<center><img src="/img/Generator Kopie.png" alt="" /><figcaption></figcaption></center>
 
 ### Sneak Peak #2: The Rigs
 
 <div>
 
-<figure><img src="/img/2.png" alt="" /><figcaption><p>Common Rig</p></figcaption></figure>
+<center><img src="/img/2.png" alt="" /><figcaption><p>Common Rig</p></figcaption></center>
 
  
 
-<figure><img src="/img/3.png" alt="" /><figcaption><p>Uncommon Rig</p></figcaption></figure>
+<center><img src="/img/3.png" alt="" /><figcaption><p>Uncommon Rig</p></figcaption></center>
 
  
 
-<figure><img src="/img/miner6.png" alt="" /><figcaption><p>Rare Rig</p></figcaption></figure>
+<center><img src="/img/miner6.png" alt="" /><figcaption><p>Rare Rig</p></figcaption></center>
 
  
 
-<figure><img src="/img/miner5.png" alt="" /><figcaption><p>Epic Rig</p></figcaption></figure>
+<center><img src="/img/miner5.png" alt="" /><figcaption><p>Epic Rig</p></figcaption></center>
 
  
 
-<figure><img src="/img/4.png" alt="" /><figcaption><p>Legendary Rig</p></figcaption></figure>
+<center><img src="/img/4.png" alt="" /><figcaption><p>Legendary Rig</p></figcaption></center>
 
  
 
-<figure><img src="/img/1.png" alt="" /><figcaption><p>Mythic Rig</p></figcaption></figure>
+<center><img src="/img/1.png" alt="" /><figcaption><p>Mythic Rig</p></figcaption></center>
 
 </div>
 

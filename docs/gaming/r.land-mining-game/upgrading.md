@@ -2,6 +2,7 @@
 description: How to upgrade your Lands, Tools and Contracts!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 3
 ---
 
 # ⏫ Upgrading

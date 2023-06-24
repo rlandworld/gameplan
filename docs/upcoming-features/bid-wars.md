@@ -2,6 +2,7 @@
 description: Introducing R.Land's "Bid Wars" Events
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 9
 ---
 
 # 💂 Bid Wars
@@ -15,11 +16,11 @@ In May 2022, the very first Bidding Event called "Bid Wars 1.0" took place on [R
 * **"Owner Shard Whale Pack" (**Highest sold for over 2k WAX)
 * **"Owner Shard Gold Pack"** (Highest sold for over 1k WAX)
 
-<figure><img src="/img/Bid War#1 - Items.png" alt="" /><figcaption><p>Bid Wars 1.0</p></figcaption></figure>
+<center><img src="/img/Bid War#1 - Items.png" alt="" /><figcaption><p>Bid Wars 1.0</p></figcaption></center>
 
 You might think this sounds like an auction for the rich? WRONG! The "Bid Wars 1.0" was designed to be a mini-game where ANYONE could be the final winner:
 
-<figure><img src="/img/Bid War#1 - Rules.png" alt="" /><figcaption><p>The rules for the "Bid War 1.0". These very likely will be tweaked on the next ocassion.</p></figcaption></figure>
+<center><img src="/img/Bid War#1 - Rules.png" alt="" /><figcaption><p>The rules for the "Bid War 1.0". These very likely will be tweaked on the next ocassion.</p></figcaption></center>
 
 **Still sounds too hard?** There was another option to win as well:
 

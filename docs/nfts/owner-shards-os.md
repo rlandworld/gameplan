@@ -2,25 +2,26 @@
 description: Introducing R.Land's exclusive ownership NFTs!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 1
 ---
 
 # 💎 Owner Shards (OS)
 
 <div>
 
-<figure><img src="/img/Honeycam 2023-01-13 16-19-37.webp" alt="" /><figcaption><p>Mythic <mark style={{ color:'green' }}>Circuit</mark> OS</p></figcaption></figure>
+<center><img src="/img/Honeycam 2023-01-13 16-19-37.webp" alt="" /><figcaption><p>Mythic <mark style={{ color:'green' }}>Circuit</mark> OS</p></figcaption></center>
 
  
 
-<figure><img src="/img/Honeycam 2023-01-13 16-19-22.webp" alt="" /><figcaption><p>Mythic <mark style={{ color:'yellow' }}>Alloy</mark> OS</p></figcaption></figure>
+<center><img src="/img/Honeycam 2023-01-13 16-19-22.webp" alt="" /><figcaption><p>Mythic <mark style={{ color:'yellow' }}>Alloy</mark> OS</p></figcaption></center>
 
  
 
-<figure><img src="/img/Honeycam 2023-01-13 16-19-55.webp" alt="" /><figcaption><p>Mythic <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></figure>
+<center><img src="/img/Honeycam 2023-01-13 16-19-55.webp" alt="" /><figcaption><p>Mythic <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></center>
 
  
 
-<figure><img src="/img/Honeycam 2023-01-13 16-19-47.webp" alt="" /><figcaption><p>Mythic <mark style={{ color:'blue' }}>Pixel</mark> OS</p></figcaption></figure>
+<center><img src="/img/Honeycam 2023-01-13 16-19-47.webp" alt="" /><figcaption><p>Mythic <mark style={{ color:'blue' }}>Pixel</mark> OS</p></figcaption></center>
 
 </div>
 
@@ -76,27 +77,27 @@ Each Owner Shard variant is available in six different rarities ranging from "Co
 
 <div>
 
-<figure><img src="/img/rgas common.webp" alt="" /><figcaption><p>Common <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></figure>
+<center><img src="/img/rgas common.webp" alt="" /><figcaption><p>Common <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></center>
 
  
 
-<figure><img src="/img/rgas uncommon.webp" alt="" /><figcaption><p>Uncommon <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></figure>
+<center><img src="/img/rgas uncommon.webp" alt="" /><figcaption><p>Uncommon <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></center>
 
  
 
-<figure><img src="/img/rgas rare.webp" alt="" /><figcaption><p>Rare <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></figure>
+<center><img src="/img/rgas rare.webp" alt="" /><figcaption><p>Rare <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></center>
 
  
 
-<figure><img src="/img/rgas epic.webp" alt="" /><figcaption><p>Epic <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></figure>
+<center><img src="/img/rgas epic.webp" alt="" /><figcaption><p>Epic <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></center>
 
  
 
-<figure><img src="/img/rgas legendary.webp" alt="" /><figcaption><p>Legendary <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></figure>
+<center><img src="/img/rgas legendary.webp" alt="" /><figcaption><p>Legendary <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></center>
 
  
 
-<figure><img src="/img/rgas mythic.webp" alt="" /><figcaption><p>Mythic <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></figure>
+<center><img src="/img/rgas mythic.webp" alt="" /><figcaption><p>Mythic <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></center>
 
 </div>
 

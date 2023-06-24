@@ -2,11 +2,12 @@
 description: Learn how to set up your own WAX Wallet!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 2
 ---
 
 # 💳 Creating a WAX Wallet
 
-<figure><img src="/img/wax_logo.png" alt="" /><figcaption><p>The WAX-Blockchain Logo</p></figcaption></figure>
+<center><img src="/img/wax_logo.png" alt="" /><figcaption><p>The WAX-Blockchain Logo</p></figcaption></center>
 
 ## What is the WAX Blockchain?
 

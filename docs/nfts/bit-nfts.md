@@ -2,11 +2,19 @@
 description: Introducing the original BIT-NFTs!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 6
 ---
 
 # 🔳 BIT-NFTs
 
-![Multi BIT (Rare)](</img/Multi_Bit.webp>) ![Silver BIT (Epic)](</img/Silver_Bit.webp>) ![Gold BIT (Legendary)](</img/Gold_Bit.webp>) ![Black Diamond BIT (Mythic)](</img/Black_Diamond_Bit.webp>)
+<!-- ![Multi BIT (Rare)](</img/Multi_Bit.webp>) ![Silver BIT (Epic)](</img/Silver_Bit.webp>) ![Gold BIT (Legendary)](</img/Gold_Bit.webp>) ![Black Diamond BIT (Mythic)](</img/Black_Diamond_Bit.webp>) -->
+
+<div style={{textAlign: 'center',display:'flex',width:'100%',justifyContent:'center'}}>
+  <img src="/img/Multi_Bit.webp" alt="Multi BIT (Rare)" style={{width:'25%'}}/>
+  <img src="/img/Silver_Bit.webp" alt="Silver BIT (Epic)" style={{width:'25%'}}/>
+  <img src="/img/Gold_Bit.webp" alt="Gold BIT (Legendary)" style={{width:'25%'}}/>
+  <img src="/img/Black_Diamond_Bit.webp" alt="Black Diamond BIT (Mythic)" style={{width:'25%'}}/>
+</div>
 
 ## What are BIT-NFTs?&#x20;
 

@@ -2,6 +2,7 @@
 description: Introducing R.Land's In-Game Tokens!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 2
 ---
 
 # 💿 In-Game Tokens

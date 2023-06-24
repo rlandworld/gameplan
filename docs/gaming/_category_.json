@@ -1,0 +1,8 @@
+{
+    "label": "Gaming",
+    "position": 3,
+    "link": {
+        "type": "generated-index",
+        "description": "View R.Land's active games"
+    }
+}

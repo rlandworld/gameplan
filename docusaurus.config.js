@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'R.Land Gameplans',
+  title: 'R.Land Gameplan',
   tagline: 'Animal-verse',
   favicon: 'img/favicon.ico',
 
@@ -36,7 +36,7 @@ const config = {
     async function myPlugin(context, options) {
       return {
         name: "docusaurus-tailwindcss",
-        configurePostCss(postcssOptions) {
+        concenterPostCss(postcssOptions) {
           // Appends TailwindCSS and AutoPrefixer.
           postcssOptions.plugins.push(require("tailwindcss"));
           postcssOptions.plugins.push(require("autoprefixer"));
@@ -78,19 +78,19 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/mine_resources.png',
       navbar: {
-        title: 'My Site',
+        title: 'R.Land',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'R.Land Logo',
+          src: 'img/favicon.svg',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Gameplan',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -100,6 +100,11 @@ const config = {
           },
         ],
       },
+      docs:{
+        sidebar: {
+          hideable: true,
+        }
+      },      
       footer: {
         style: 'dark',
         links: [
@@ -107,8 +112,40 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Gameplan',
+                to: '/',
+              },
+              {
+                label: 'Essentials',
+                to: '/category/essentials',
+              },
+              {
+                label: 'NFTS',
+                to: '/category/nfts',
+              },
+              {
+                label: 'Gaming',
+                to: '/category/gaming',
+              },
+              {
+                label: 'Tokenomics',
+                to: '/category/tokenomics',
+              },
+              {
+                label: 'Current Events',
+                to: '/category/current-events',
+              },
+              {
+                label: 'Upcoming Features',
+                to: '/category/upcoming-features',
+              },
+              {
+                label: 'R.Land\'s History',
+                to: '/category/rlands-history-and-future',
+              },
+              {
+                label: 'Community',
+                to: '/category/community',
               },
             ],
           },
@@ -116,16 +153,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/rland',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/rlandworld',
+              },
+              {
+                label: 'Telgram',
+                href: 'https://t.me/rlandworld',
               },
             ],
           },
@@ -133,17 +170,17 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Main Site',
+                to: 'https://r.land',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Mining Game',
+                href: 'https://play.r.land',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} R.Land | Gifter Studios Inc.`,
       },
       prism: {
         theme: lightCodeTheme,

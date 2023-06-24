@@ -2,6 +2,7 @@
 description: Understanding the difference!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 3
 ---
 
 # 🆚 R.Land In-Game Wallet vs. WAX Wallet
@@ -22,11 +23,11 @@ The R.Land In-Game Wallet and the official WAX Wallet are two different entities
 
 When logging in on [R.Land](https://play.r.land/mine), you will have direct access to your own personal "In-Game Wallet". It does not only contain your in-game [BIT-Tokens](/tokenomics/bit-token), but also all other [In-Game Tokens](/tokenomics/in-game-tokens/) such as [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas), [Actions](/tokenomics/in-game-tokens/actions-sa-da) and [Experience Points](/tokenomics/in-game-tokens/experience-points-xp).
 
-<figure><img src="/img/balance.PNG" alt="" /><figcaption><p>Example of the R.Land In-Game Wallet Balance</p></figcaption></figure>
+<center><img src="/img/balance.PNG" alt="" /><figcaption><p>Example of the R.Land In-Game Wallet Balance</p></figcaption></center>
 
 Clicking on the balance menu will show a more detailed overview of your In-Game Wallet:
 
-<figure><img src="/img/detailed_balance.PNG" alt="" /><figcaption><p>Example of detailed R.Land In-Game Wallet Balance</p></figcaption></figure>
+<center><img src="/img/detailed_balance.PNG" alt="" /><figcaption><p>Example of detailed R.Land In-Game Wallet Balance</p></figcaption></center>
 
 :::success
 The R.Land In-Game Wallet is managed by R.Land's dedicated servers and is decoupled from the [WAX Blockchain](https://on.wax.io/wax-io/). Interaction with the blockchain only happens when depositing or withdrawing [BIT-Tokens](/tokenomics/bit-token). \
@@ -40,7 +41,7 @@ The [WAX Could Wallet](https://all-access.wax.io/) (or other self-managed WAX Wa
 \
 Most of your R.Land assets will always remain stored in your personal WAX Wallet. The same applies to [BIT-Tokens](/tokenomics/bit-token) that have been withdrawn from your R.Land [In-Game Wallet](creating-an-r.land-in-game-wallet.md) or have been bought on a third-party exchange.
 
-<figure><img src="/img/WCW.PNG" alt="" /><figcaption><p>The WAX Cloud Wallet</p></figcaption></figure>
+<center><img src="/img/WCW.PNG" alt="" /><figcaption><p>The WAX Cloud Wallet</p></figcaption></center>
 
 :::info
 Learn more about [Creating a WAX Wallet](creating-a-wax-wallet.md).

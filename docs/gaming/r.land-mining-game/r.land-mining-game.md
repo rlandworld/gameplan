@@ -2,6 +2,7 @@
 description: Introducing R.Land's Mining Game
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 0
 ---
 
 # ⛏ R.Land Mining Game
@@ -14,7 +15,7 @@ The R.Land Mining Game 2.0 is still in development and currently in testing phas
 
 The release of the R.Land Mining Game was the project's first major milestone and has been the main focus of development in 2022. What started out as a discord-only minigame has since evolved into a full fledged [Webmining Experience](https://play.r.land/mine):
 
-<figure><img src="/img/homepage full.PNG" alt="" /><figcaption><p>The R.Land Mining Game 2.0</p></figcaption></figure>
+<center><img src="/img/homepage full.PNG" alt="" /><figcaption><p>The R.Land Mining Game 2.0</p></figcaption></center>
 
 The Mining Game offers players an enjoyable, exciting, and rewarding way of accumulating the tokens needed for the upcoming [Staking Game](/../upcoming-features/r.land-staking-game) and [Crafting Game](/../upcoming-features/r.land-crafting-game), while at the same time building a solid economic foundation for future extensions.
 

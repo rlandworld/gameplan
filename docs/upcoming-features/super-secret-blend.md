@@ -2,6 +2,7 @@
 description: Introducing R.Land's upcoming "Super Secret Blend"
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 8
 ---
 
 # 👀 Super Secret Blend

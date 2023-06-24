@@ -2,6 +2,7 @@
 description: Introducing R.Land's BIT-Token
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 1
 ---
 
 # 📀 BIT-Token
@@ -21,7 +22,7 @@ In other words, a BIT-Token is automatically created for each **full set** of al
 
 Consequently, the lowest amount of any of the four [Resources](in-game-tokens/resources-alloy-circuit-pixel-rgas.md) in your [In-Game Wallet](/essentials/r.land-in-game-wallet-vs.-wax-wallet) will determine the amount of BIT-Tokens in your balance:
 
-<figure><img src="/img/Resource Balance (1).PNG" alt="" /><figcaption><p>Example of Resources- and BIT-Balance <br/>in your R.Land In-Game Wallet</p></figcaption></figure>
+<center><img src="/img/Resource Balance (1).PNG" alt="" /><figcaption><p>Example of Resources- and BIT-Balance <br/>in your R.Land In-Game Wallet</p></figcaption></center>
 
 :::warning
 Remember that [Resources](in-game-tokens/resources-alloy-circuit-pixel-rgas.md) are [In-Game Tokens](in-game-tokens/) and therefore cannot be withdrawn to your [WAX Wallet](/essentials/r.land-in-game-wallet-vs.-wax-wallet) directly. However, withdrawing [BIT-Tokens](bit-token.md) will automatically deduct the respective amount of Resources from your [In-Game Wallet](/essentials/r.land-in-game-wallet-vs.-wax-wallet) as well.

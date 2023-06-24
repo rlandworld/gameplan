@@ -2,13 +2,14 @@
 description: Introducing R.Land's Land and Tool NFTs!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 3
 ---
 
 # 🏝 Lands and Tools
 
-<figure><img src="/img/All_Lands_Pixel Kopie.jpg" alt="" /><figcaption><p>All Land Rarities from Common to Mythic (<mark style={{ color:'blue' }}>Pixel</mark> Variant)</p></figcaption></figure>
+<center><img src="/img/All_Lands_Pixel Kopie.jpg" alt="" /><figcaption><p>All Land Rarities from Common to Mythic (<mark style={{ color:'blue' }}>Pixel</mark> Variant)</p></figcaption></center>
 
-<figure><img src="/img/All_Tools Kopie.jpg" alt="" /><figcaption><p>All Tool Rarities from Wood (Common) to <mark style={{ color:'purple' }}>Black Diamond</mark> (Mythic)</p></figcaption></figure>
+<center><img src="/img/All_Tools Kopie.jpg" alt="" /><figcaption><p>All Tool Rarities from Wood (Common) to <mark style={{ color:'purple' }}>Black Diamond</mark> (Mythic)</p></figcaption></center>
 
 ## Lands
 
@@ -20,19 +21,19 @@ Lands are available in four different variants (<mark style={{ color:'green' }}>
 
 <div>
 
-<figure><img src="/img/circuit_mythic-3c87765d_comp.webp" alt="" /><figcaption><p>Mythic Land (<mark style={{ color:'green' }}>Circuit</mark> Variant)</p></figcaption></figure>
+<center><img src="/img/circuit_mythic-3c87765d_comp.webp" alt="" /><figcaption><p>Mythic Land (<mark style={{ color:'green' }}>Circuit</mark> Variant)</p></figcaption></center>
 
  
 
-<figure><img src="/img/alloy_mythic-225c5ec9_comp.webp" alt="" /><figcaption><p>Mythic Land (<mark style={{ color:'yellow' }}>Alloy</mark> Variant)</p></figcaption></figure>
+<center><img src="/img/alloy_mythic-225c5ec9_comp.webp" alt="" /><figcaption><p>Mythic Land (<mark style={{ color:'yellow' }}>Alloy</mark> Variant)</p></figcaption></center>
 
  
 
-<figure><img src="/img/rgas_mythic-50e2bc72_comp.webp" alt="" /><figcaption><p>Mythic Land (<mark style={{ color:'red' }}>rGas</mark> Variant)</p></figcaption></figure>
+<center><img src="/img/rgas_mythic-50e2bc72_comp.webp" alt="" /><figcaption><p>Mythic Land (<mark style={{ color:'red' }}>rGas</mark> Variant)</p></figcaption></center>
 
  
 
-<figure><img src="/img/pixel_mythic-fac2bd23_comp.webp" alt="" /><figcaption><p>Mythic Land (<mark style={{ color:'blue' }}>Pixel</mark> Variant)</p></figcaption></figure>
+<center><img src="/img/pixel_mythic-fac2bd23_comp.webp" alt="" /><figcaption><p>Mythic Land (<mark style={{ color:'blue' }}>Pixel</mark> Variant)</p></figcaption></center>
 
 </div>
 
@@ -66,29 +67,29 @@ Tools are available in six different rarities ("Common" to "Mythic"). All Tools 
 
 <div>
 
-<figure><img src="/img/axe_common-80d9438b_comp.webp" alt="" /><figcaption><p>Wood Pickaxe (Common)</p></figcaption></figure>
+<center><img src="/img/axe_common-80d9438b_comp.webp" alt="" /><figcaption><p>Wood Pickaxe (Common)</p></figcaption></center>
 
  
 
-<figure><img src="/img/axe_uncommon-91c23570_comp.webp" alt="" /><figcaption><p>Stone Pickaxe (Uncommon)</p></figcaption></figure>
+<center><img src="/img/axe_uncommon-91c23570_comp.webp" alt="" /><figcaption><p>Stone Pickaxe (Uncommon)</p></figcaption></center>
 
  
 
-<figure><img src="/img/axe_rare-40eab4d1_comp.webp" alt="" /><figcaption><p>Multi Pickaxe (Rare)</p></figcaption></figure>
+<center><img src="/img/axe_rare-40eab4d1_comp.webp" alt="" /><figcaption><p>Multi Pickaxe (Rare)</p></figcaption></center>
 
 </div>
 
 <div>
 
-<figure><img src="/img/axe_epic-91725737_comp.webp" alt="" /><figcaption><p>Silver Pickaxe (Epic)</p></figcaption></figure>
+<center><img src="/img/axe_epic-91725737_comp.webp" alt="" /><figcaption><p>Silver Pickaxe (Epic)</p></figcaption></center>
 
  
 
-<figure><img src="/img/axe_legendary-195b8b46_comp.webp" alt="" /><figcaption><p>Gold Pickaxe (Legendary)</p></figcaption></figure>
+<center><img src="/img/axe_legendary-195b8b46_comp.webp" alt="" /><figcaption><p>Gold Pickaxe (Legendary)</p></figcaption></center>
 
  
 
-<figure><img src="/img/axe_mythic-bcd869e5_comp.webp" alt="" /><figcaption><p><mark style={{ color:'purple' }}>Black Diamond</mark> <br/>Pickaxe (Mythic)</p></figcaption></figure>
+<center><img src="/img/axe_mythic-bcd869e5_comp.webp" alt="" /><figcaption><p><mark style={{ color:'purple' }}>Black Diamond</mark> <br/>Pickaxe (Mythic)</p></figcaption></center>
 
 </div>
 

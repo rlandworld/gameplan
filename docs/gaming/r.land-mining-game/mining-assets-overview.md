@@ -2,17 +2,18 @@
 description: All relevant details about Land, Tools and Contracts at a glance!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 6
 ---
 
 # 🔍 Mining Assets Overview
 
 ## Tool Contracts
 
-<figure><img src="/img/Tool_Info_New Kopie.jpg" alt="" /><figcaption><p>Tool and Tool Contract characteristics for each rarity</p></figcaption></figure>
+<center><img src="/img/Tool_Info_New Kopie.jpg" alt="" /><figcaption><p>Tool and Tool Contract characteristics for each rarity</p></figcaption></center>
 
 ## Land Contracts
 
-<figure><img src="/img/Land Info New Kopie.jpg" alt="" /><figcaption><p>Land Contract characteristics for each rarity</p></figcaption></figure>
+<center><img src="/img/Land Info New Kopie.jpg" alt="" /><figcaption><p>Land Contract characteristics for each rarity</p></figcaption></center>
 
 :::info
 These [Contract](/../nfts/land-and-tool-contracts) properties are identical for owned [Lands](/../nfts/lands-and-tools.md#lands) and [Tools](/../nfts/lands-and-tools.md#tools), with the exception of the [Rental Fees](/../nfts/land-and-tool-contracts.md#rental-fees) and ownership costs.

@@ -2,25 +2,26 @@
 description: Introducing R.Land Booster NFTs!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 4
 ---
 
 # 🚀 Boosters
 
 <div>
 
-<figure><img src="/img/x8_day.webp" alt="" /><figcaption><p>Mythic 8x Day Booster</p></figcaption></figure>
+<center><img src="/img/x8_day.webp" alt="" /><figcaption><p>Mythic 8x Day Booster</p></figcaption></center>
 
  
 
-<figure><img src="/img/x8_week.webp" alt="" /><figcaption><p>Mythic 8x Week Booster</p></figcaption></figure>
+<center><img src="/img/x8_week.webp" alt="" /><figcaption><p>Mythic 8x Week Booster</p></figcaption></center>
 
  
 
-<figure><img src="/img/x8_month.webp" alt="" /><figcaption><p>Mythic 8x Month Booster</p></figcaption></figure>
+<center><img src="/img/x8_month.webp" alt="" /><figcaption><p>Mythic 8x Month Booster</p></figcaption></center>
 
  
 
-<figure><img src="/img/x8_once.webp" alt="" /><figcaption><p>Mythic 8x Once Booster</p></figcaption></figure>
+<center><img src="/img/x8_once.webp" alt="" /><figcaption><p>Mythic 8x Once Booster</p></figcaption></center>
 
 </div>
 
@@ -44,7 +45,7 @@ Boosters are available on [AtomicHub](https://wax.atomichub.io/market?collection
 
 ## Rarities
 
-<figure><img src="/img/All Booster Rarities comp.png" alt="" /><figcaption><p>All Four Booster Rarities (Rare, Epic, Legendary, Mythic) In "Month" Variant</p></figcaption></figure>
+<center><img src="/img/All Booster Rarities comp.png" alt="" /><figcaption><p>All Four Booster Rarities (Rare, Epic, Legendary, Mythic) In "Month" Variant</p></figcaption></center>
 
 Boosters are available in four different rarities, with each rarity providing a different boost multiplier:
 

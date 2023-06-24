@@ -3,11 +3,12 @@ description: Learn everything about our animal metaverse for gaming and services
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
 layout: landing
+sidebar_position: 1
 ---
 
 # 🗞 R.Land Whitepaper
 
-<figure><img src="/img/Kitchen_scene_small_comp.png" alt="" /><figcaption><p>Welcome to the World of R.Land!</p></figcaption></figure>
+<center><img src="/img/Kitchen_scene_small_comp.png" alt="" /><figcaption><p>Welcome to the World of R.Land!</p></figcaption></center>
 
 ## Welcome to R.Land!
 
@@ -15,12 +16,15 @@ Hello dear visitor, my name is **Dr. Baby Girl** and I am very excited to meet y
 
 You arrived at just the right time! Join me and all the other animals on our quest to build a new civilization for all of us. Starting with limited resources, our goal is to one day rebuild our once glorious empire. To achieve this, we need your help! Want to know how?
 
-<figure><img src="/img/baby_wave.png" alt="" /><figcaption><p><br/>"Great to see you, visitor! <br/>Welcome to R.Land,<br/>Woof Woof!" <br/>Dr. Baby Girl<br/>- R.Land's Lead Scientist</p></figcaption></figure>
+<center><img src="/img/baby_wave.png" alt="" /><figcaption><p><br/>"Great to see you, visitor! <br/>Welcome to R.Land,<br/>Woof Woof!" <br/>Dr. Baby Girl<br/>- R.Land's Lead Scientist</p></figcaption></center>
 
 Let me guide you on a journey through everything you need to know about [R.Land](https://r.land/)!
 
 :::success
-<img src="/img/baby girl.PNG" alt="" data-size="original" />  Visit Dr. Baby Girl on [Instagram](https://www.instagram.com/pupbabygirl/)!&#x20;
+<div class="flex items-center gap-1">
+<img src="/img/baby_girl.png" alt="" data-size="original" ></img>
+<p>Visit Dr. Baby Girl on <a href="https://www.instagram.com/pupbabygirl/" target="_blank">Instagram</a>!</p>
+</div>  
 :::
 
 :::success

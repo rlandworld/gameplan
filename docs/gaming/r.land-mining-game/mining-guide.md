@@ -2,6 +2,7 @@
 description: How to play the R.Land Mining Game!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 2
 ---
 
 # ❔ Mining Guide
@@ -12,11 +13,11 @@ You already own [Lands](/../nfts/lands-and-tools.md#lands), [Tools ](/../nfts/la
 * After successfully logging in, your mining homepage will appear. Make sure the "Mine" Tab at the bottom is selected.
 * Click the big "Click to start mining"-button in the center of the screen (you can minimize this button by clicking on the "X"-icon in the top right corner of the card):
 
-<figure><img src="/img/after login homepage_comp.png" alt="" /><figcaption><p>R.Land Mining Homepage</p></figcaption></figure>
+<center><img src="/img/after login homepage_comp.png" alt="" /><figcaption><p>R.Land Mining Homepage</p></figcaption></center>
 
 * A new window will appear. You are now able to create a new mining session:
 
-<figure><img src="/img/create mining session_comp.png" alt="" /><figcaption><p>Creating a new Mining Session<br/></p></figcaption></figure>
+<center><img src="/img/create mining session_comp.png" alt="" /><figcaption><p>Creating a new Mining Session<br/></p></figcaption></center>
 
 * First you need to select a Mining [Tool](/../nfts/lands-and-tools.md#tools) (or [Tool Contract](/../nfts/land-and-tool-contracts)) to start a new mining session. Click the "Select Tool"-button.&#x20;
 
@@ -28,11 +29,11 @@ For example, at [Level](upgrading.md) 1 000 the mining session would last for 1 
 
 * A new window will appear, listing all the R.Land Mining Tools available in your [WAX Wallet](/../essentials/r.land-in-game-wallet-vs.-wax-wallet) (ordered by name, ID and mint number). In addition, the remaining available RPM ([**R**esources](/../tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) **P**er **M**inute), the total available RPM and the current [Level](upgrading.md) of each [Tool](/../nfts/lands-and-tools.md#tools) is displayed. Choose your desired [Tool](/../nfts/lands-and-tools.md#tools) (or [Tool Contract](/../nfts/land-and-tool-contracts)) from the list by simply clicking on it:
 
-<figure><img src="/img/select tool_comp.png" alt="" /><figcaption><p>Selecting a Tool or Tool Contract</p></figcaption></figure>
+<center><img src="/img/select tool_comp.png" alt="" /><figcaption><p>Selecting a Tool or Tool Contract</p></figcaption></center>
 
 * After selecting a [Tool](/../nfts/lands-and-tools.md#tools), you will be redirected to the "Create Mining Session" window. The [Tool](/../nfts/lands-and-tools.md#tools) is now selected:
 
-<figure><img src="/img/tool selected_comp.png" alt="" /><figcaption><p>Your Tool has been selected</p></figcaption></figure>
+<center><img src="/img/tool selected_comp.png" alt="" /><figcaption><p>Your Tool has been selected</p></figcaption></center>
 
 * Depending on your [Tool](/../nfts/lands-and-tools.md#tools) rarity, you can now choose up to four different [Lands](/../nfts/lands-and-tools.md#lands) (or [Land Contracts](/../nfts/land-and-tool-contracts)) to mine on.
 
@@ -42,7 +43,7 @@ Each [Tool](/../nfts/lands-and-tools.md#tools) can mine on a certain amount of [
 
 * By clicking on any "Select Land"-button, a "Select Mining Land" window will appear, listing all the R.Land Mining [Lands](/../nfts/lands-and-tools.md#lands) available in your [WAX Wallet](/../essentials/r.land-in-game-wallet-vs.-wax-wallet) (ordered by name, ID and mint number). In addition, the remaining available RPM ([**R**esources](/../tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) **P**er **M**inute), the total available RPM and the current [Level](upgrading.md) of each [Land](/../nfts/lands-and-tools.md#lands) is displayed. Select the [Lands](/../nfts/lands-and-tools.md#lands) (or [Land Contracts](/../nfts/land-and-tool-contracts)) from the list by simply clicking on it:
 
-<figure><img src="/img/select lands_comp.png" alt="" /><figcaption><p>Selecting a Land or Land Contract</p></figcaption></figure>
+<center><img src="/img/select lands_comp.png" alt="" /><figcaption><p>Selecting a Land or Land Contract</p></figcaption></center>
 
 * Repeat this step for every available [Land](/../nfts/lands-and-tools.md#lands) slot.
 
@@ -52,17 +53,17 @@ When selecting [Lands](/../nfts/lands-and-tools.md#lands) to mine on, it is best
 
 * You will be redirected back to the "Create Mining Session" window. The [Lands](/../nfts/lands-and-tools.md#lands) are now selected:
 
-<figure><img src="/img/lands selected.png" alt="" /><figcaption><p>Your Lands are selected</p></figcaption></figure>
+<center><img src="/img/lands selected.png" alt="" /><figcaption><p>Your Lands are selected</p></figcaption></center>
 
 * Now that the [Tools](/../nfts/lands-and-tools.md#tools) and [Lands](/../nfts/lands-and-tools.md#lands) are successfully selected, you can create the new mining session by clicking on the "Create Session"-button.
 * If you would like to add a [Booster](/../nfts/boosters) to your newly created mining session, you now have the option to do so:
 
-<figure><img src="/img/select booster_comp.png" alt="" /><figcaption><p>Adding a Booster to your Mining Session</p></figcaption></figure>
+<center><img src="/img/select booster_comp.png" alt="" /><figcaption><p>Adding a Booster to your Mining Session</p></figcaption></center>
 
 * Congratulations! Your mining session is now completely set up. Click the "Start Mining"-button to start your new mining session (be aware that a certain amount of [Actions](/../tokenomics/in-game-tokens/actions-sa-da) will be required to start).
 * You will be redirected to your mining homepage. The newly created mining session will be visible and active:
 
-<figure><img src="/img/mining session successful_comp.png" alt="" /><figcaption><p>The new Mining Session is active!</p></figcaption></figure>
+<center><img src="/img/mining session successful_comp.png" alt="" /><figcaption><p>The new Mining Session is active!</p></figcaption></center>
 
 :::info
 In our example, the Legendary Gold Pickaxe is mining at a rate of 550,5445 RPM. \

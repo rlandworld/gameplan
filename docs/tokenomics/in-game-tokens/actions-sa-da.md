@@ -2,11 +2,12 @@
 description: Introducing R.Land's In-Game Token "Actions"!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 2
 ---
 
 # 🟨 Actions (SA,DA)
 
-<figure><img src="/img/Actions Balance.PNG" alt="" /><figcaption><p>Example of Actions-Balance <br/>in your R.Land In-Game Wallet</p></figcaption></figure>
+<center><img src="/img/Actions Balance.PNG" alt="" /><figcaption><p>Example of Actions-Balance <br/>in your R.Land In-Game Wallet</p></figcaption></center>
 
 ## What are Actions?
 
@@ -76,11 +77,11 @@ New players will start out with 50 Daily Actions for free (until a certain thres
 
  
 
-<figure><img src="/img/593.webp" alt="" /><figcaption><p>Daily Actions NFT (Mint #593)</p></figcaption></figure>
+<center><img src="/img/593.webp" alt="" /><figcaption><p>Daily Actions NFT (Mint #593)</p></figcaption></center>
 
  
 
-<figure><img src="/img/1004 DA.webp" alt="" /><figcaption><p>Bonus Daily Actions NFT (Mint #1004)</p></figcaption></figure>
+<center><img src="/img/1004 DA.webp" alt="" /><figcaption><p>Bonus Daily Actions NFT (Mint #1004)</p></figcaption></center>
 
 </div>
 
@@ -98,15 +99,15 @@ Players can receive discounts for the [Daily Action Pack](/../nfts/packs.md#dail
 
 <div>
 
-<figure><img src="/img/Mythic rGas Small.webp" alt="" /><figcaption><p>Mythic Owner Shard <br/>(<mark style={{ color:'red' }}>rGas</mark> Variant)</p></figcaption></figure>
+<center><img src="/img/Mythic rGas Small.webp" alt="" /><figcaption><p>Mythic Owner Shard <br/>(<mark style={{ color:'red' }}>rGas</mark> Variant)</p></figcaption></center>
 
  
 
-<figure><img src="/img/rgas_mythic-50e2bc72_comp3.webp" alt="" /><figcaption><p>Mythic Land <br/>(<mark style={{ color:'red' }}>rGas</mark>  Variant)</p></figcaption></figure>
+<center><img src="/img/rgas_mythic-50e2bc72_comp3.webp" alt="" /><figcaption><p>Mythic Land <br/>(<mark style={{ color:'red' }}>rGas</mark>  Variant)</p></figcaption></center>
 
  
 
-<figure><img src="/img/contract_rgas_mythic-2ee9af38_comp3.webp" alt="" /><figcaption><p>Mythic Land Contract <br/>(<mark style={{ color:'red' }}>rGas</mark> Variant)</p></figcaption></figure>
+<center><img src="/img/contract_rgas_mythic-2ee9af38_comp3.webp" alt="" /><figcaption><p>Mythic Land Contract <br/>(<mark style={{ color:'red' }}>rGas</mark> Variant)</p></figcaption></center>
 
 </div>
 
@@ -125,11 +126,11 @@ Players can receive discounts for the [Daily Action Pack](/../nfts/packs.md#dail
 
 <div>
 
-<figure><img src="/img/axe_mythic-bcd869e5_comp2.webp" alt="" /><figcaption><p>Mythic Tool (<mark style={{ color:'purple' }}>Black Diamond</mark> Pickaxe)</p></figcaption></figure>
+<center><img src="/img/axe_mythic-bcd869e5_comp2.webp" alt="" /><figcaption><p>Mythic Tool (<mark style={{ color:'purple' }}>Black Diamond</mark> Pickaxe)</p></figcaption></center>
 
  
 
-<figure><img src="/img/contract_axe_mythic_comp3.png" alt="" /><figcaption><p>Mythic Tool Contract<br/>(<mark style={{ color:'purple' }}>Black Diamond</mark> Pickaxe)</p></figcaption></figure>
+<center><img src="/img/contract_axe_mythic_comp3.png" alt="" /><figcaption><p>Mythic Tool Contract<br/>(<mark style={{ color:'purple' }}>Black Diamond</mark> Pickaxe)</p></figcaption></center>
 
 </div>
 

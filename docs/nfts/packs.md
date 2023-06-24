@@ -2,6 +2,7 @@
 description: Introducing R.Land's NFT Packs
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 7
 ---
 
 # 📦 Packs
@@ -12,19 +13,19 @@ R.Land's very first sale, the [Owner Shard](owner-shards-os.md) Pack drop, took 
 
 <div>
 
-<figure><img src="/img/Solo pack.png" alt="" /><figcaption><p>OS Solo Pack</p></figcaption></figure>
+<center><img src="/img/Solo pack.png" alt="" /><figcaption><p>OS Solo Pack</p></figcaption></center>
 
  
 
-<figure><img src="/img/Shark pack.png" alt="" /><figcaption><p>OS Shark Pack</p></figcaption></figure>
+<center><img src="/img/Shark pack.png" alt="" /><figcaption><p>OS Shark Pack</p></figcaption></center>
 
  
 
-<figure><img src="/img/Gold Pack.png" alt="" /><figcaption><p>OS Gold Pack</p></figcaption></figure>
+<center><img src="/img/Gold Pack.png" alt="" /><figcaption><p>OS Gold Pack</p></figcaption></center>
 
  
 
-<figure><img src="/img/Whale pack.png" alt="" /><figcaption><p>OS Whale Pack</p></figcaption></figure>
+<center><img src="/img/Whale pack.png" alt="" /><figcaption><p>OS Whale Pack</p></figcaption></center>
 
 </div>
 
@@ -114,7 +115,7 @@ Booster Packs are available on [AtomicHub](https://wax.atomichub.io/market?colle
 
 [Daily Actions-NFT](daily-actions-nfts.md) Packs were released on July 10th, 2022. Inside these packs you will find up to three [Daily Actions-NFTs](daily-actions-nfts.md) granting different amounts of [Daily Actions](/tokenomics/in-game-tokens/actions-sa-da) (DA).
 
-<figure><img src="/img/DA_comp.webp" alt="" /><figcaption><p>Daily Action NFT Pack</p></figcaption></figure>
+<center><img src="/img/DA_comp.webp" alt="" /><figcaption><p>Daily Action NFT Pack</p></figcaption></center>
 
 The initial pack price was 150$, exclusively purchasable in [BIT-Tokens](/tokenomics/bit-token) (only for whitelisted players and for a limited amount of time). As of today, the drop is still publicly available on [R.Land](https://play.r.land/drop) for 200$ in [BIT-Tokens](/tokenomics/bit-token) (discounts up to 75% for [Staking BOXEA-Tokens](/current-events/daily-actions-nft-pack-discount) may apply).
 

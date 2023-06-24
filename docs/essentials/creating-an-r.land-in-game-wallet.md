@@ -2,6 +2,7 @@
 description: Learn how to set up your own R.Land In-Game Wallet!
 cover: /img/logo_baby_head_comp.webp
 coverY: 0
+sidebar_position: 1
 ---
 
 # 👋 Creating an R.Land In-Game Wallet
@@ -19,7 +20,7 @@ In order to get started in the world of R.Land, you need to setup an R.Land In-G
 
 Alternatively, you also have the option to sign up via E-Mail Link as Dr. Baby Girl is showing below:
 
-<figure><img src="/img/Login Social_comp.png" alt="" /><figcaption><p>Creating an R.Land Account</p></figcaption></figure>
+<center><img src="/img/Login Social_comp.png" alt="" /><figcaption><p>Creating an R.Land Account</p></figcaption></center>
 
 :::success
 All your [In-Game Tokens](/tokenomics/in-game-tokens/) will be stored in your R.Land [In-Game Wallet](r.land-in-game-wallet-vs.-wax-wallet), which is automatically created once you successfully signed up.
@@ -31,15 +32,15 @@ Once you have successfully set up your R.Land In-Game Wallet, you will be automa
 \
 At the very top of the page, click the "Link WAX Wallet"-Button:&#x20;
 
-<figure><img src="/img/homepage_comp.png" alt="" /><figcaption><p>Linking your WAX Wallet</p></figcaption></figure>
+<center><img src="/img/homepage_comp.png" alt="" /><figcaption><p>Linking your WAX Wallet</p></figcaption></center>
 
 Choose your preferred WAX Wallet service and log in:
 
-<figure><img src="/img/choose wallet.png" alt="" /><figcaption><p>Selecting a WAX Wallet Service</p></figcaption></figure>
+<center><img src="/img/choose wallet.png" alt="" /><figcaption><p>Selecting a WAX Wallet Service</p></figcaption></center>
 
 After logging in, you will be prompted to verify your WAX Wallet address. Click the "Verify"-Button:
 
-<figure><img src="/img/verify.PNG" alt="" /><figcaption><p>Verify your linked WAX Wallet</p></figcaption></figure>
+<center><img src="/img/verify.PNG" alt="" /><figcaption><p>Verify your linked WAX Wallet</p></figcaption></center>
 
 Congratulations! You have now successfully linked your R.Land In-Game Wallet to your WAX Wallet.
 
