@@ -10,5 +10,5 @@ sidebar_position: 5
 "Energy" is an upcoming In-Game Token that will be used in "Refineries". More information is yet to be revealed!
 
 :::info
-Check out our [Roadmap](//upcoming-features/roadmap) for more information on upcoming features.
+Check out our [Roadmap](/upcoming-features/roadmap) for more information on upcoming features.
 :::

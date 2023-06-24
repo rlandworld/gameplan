@@ -13,11 +13,11 @@ sidebar_position: 2
 
 Being one of the essential [In-Game Tokens](./) of R.Land, "Actions" are needed for almost anything a player can do within the game, including (but not limited to):
 
-* Mining in the R.Land [Mining Game](//gaming/r.land-mining-game/)
+* Mining in the R.Land [Mining Game](/gaming/r.land-mining-game/)
 * Buying and Selling [Experience Points (XP)](experience-points-xp.md)
-* Upgrading [Lands](broken-reference), [Tools](broken-reference) and [Contracts](//nfts/land-and-tool-contracts)
-* Withdrawing [BIT-Tokens](/bit-token) to your [Wax-Wallet](//essentials/r.land-in-game-wallet-vs.-wax-wallet)
-* Renting [Lands](//nfts/lands-and-tools.md#lands) and [Tools](//nfts/lands-and-tools.md#tools) with [Public Mining (Free-To-Play)](//gaming/r.land-mining-game/public-mining-free-to-play).
+* Upgrading [Lands](broken-reference), [Tools](broken-reference) and [Contracts](/nfts/land-and-tool-contracts)
+* Withdrawing [BIT-Tokens](/bit-token) to your [Wax-Wallet](/essentials/r.land-in-game-wallet-vs.-wax-wallet)
+* Renting [Lands](/nfts/lands-and-tools.md#lands) and [Tools](/nfts/lands-and-tools.md#tools) with [Public Mining (Free-To-Play)](/gaming/r.land-mining-game/public-mining-free-to-play).
 
 There are two different types of Actions available:
 
@@ -31,7 +31,7 @@ The total amount of Actions you see in your balance is based on the sum of the r
 **Actions = Daily Actions (DA) + Single Actions (SA)**
 
 :::warning
-Similar to other [In-Game Tokens](./), Actions exist only inside the game and can not be withdrawn to your [WAX Wallet](//essentials/r.land-in-game-wallet-vs.-wax-wallet) directly.&#x20;
+Similar to other [In-Game Tokens](./), Actions exist only inside the game and can not be withdrawn to your [WAX Wallet](/essentials/r.land-in-game-wallet-vs.-wax-wallet) directly.&#x20;
 :::
 
 :::info
@@ -39,7 +39,7 @@ When spending Actions, Daily Actions (DA) are always consumed first.
 :::
 
 :::success
-Don't feel like playing R.Land's [Mining Game](//gaming/r.land-mining-game/), but still want to earn some [BIT-Tokens](/bit-token)? One of the easiest alternatives is selling [In-Game Tokens](./) like Actions for [BIT-Tokens](/bit-token) on the player-driven [In-Game Token Markets](/in-game-token-markets).
+Don't feel like playing R.Land's [Mining Game](/gaming/r.land-mining-game/), but still want to earn some [BIT-Tokens](/bit-token)? One of the easiest alternatives is selling [In-Game Tokens](./) like Actions for [BIT-Tokens](/bit-token) on the player-driven [In-Game Token Markets](/in-game-token-markets).
 :::
 
 ## What are Single Actions (SA)?
@@ -54,19 +54,19 @@ You can also trade Single Actions for [BIT-Tokens](/bit-token) on the [In-Game T
 
 "Daily Actions" are a special kind of Actions which are regenerated to your available Actions balance every 24 hours, on a rolling basis, after being used.\
 \
-They get credited to your R.Land [In-Game Wallet](//essentials/r.land-in-game-wallet-vs.-wax-wallet) automatically by owning certain R.Land assets, such as:
+They get credited to your R.Land [In-Game Wallet](/essentials/r.land-in-game-wallet-vs.-wax-wallet) automatically by owning certain R.Land assets, such as:
 
-* [Daily Action NFTs](//nfts/daily-actions-nfts)
-* [Owner Shards (OS)](//nfts/owner-shards-os)
-* [Lands](broken-reference) and [Land Contracts](//nfts/land-and-tool-contracts)
-* [Tools](broken-reference) and [Tool Contracts](//nfts/land-and-tool-contracts) (only "Rare" and above rarity)
+* [Daily Action NFTs](/nfts/daily-actions-nfts)
+* [Owner Shards (OS)](/nfts/owner-shards-os)
+* [Lands](broken-reference) and [Land Contracts](/nfts/land-and-tool-contracts)
+* [Tools](broken-reference) and [Tool Contracts](/nfts/land-and-tool-contracts) (only "Rare" and above rarity)
 
 :::info
 Daily Actions do not stack, so make sure the use all your available Daily Actions within  every 24 hours.
 :::
 
 :::success
-New players will start out with 50 Daily Actions for free (until a certain threshold), allowing them to take part in the [Public Mining (Free-To-Play)](//gaming/r.land-mining-game/public-mining-free-to-play).
+New players will start out with 50 Daily Actions for free (until a certain threshold), allowing them to take part in the [Public Mining (Free-To-Play)](/gaming/r.land-mining-game/public-mining-free-to-play).
 :::
 
 ### Daily Action NFTs
@@ -85,14 +85,14 @@ New players will start out with 50 Daily Actions for free (until a certain thres
 
 </div>
 
-The dedicated [Daily Action NFTs](//nfts/daily-actions-nfts) can generate between 1 and 1000 Daily Actions, depending on their respective mint number. Some of the very rare "[Bonus Daily Action NFTs](//nfts/daily-actions-nfts)" also can provide over 1000 Daily Actions!
+The dedicated [Daily Action NFTs](/nfts/daily-actions-nfts) can generate between 1 and 1000 Daily Actions, depending on their respective mint number. Some of the very rare "[Bonus Daily Action NFTs](/nfts/daily-actions-nfts)" also can provide over 1000 Daily Actions!
 
 :::success
-Need more Daily Actions? The [Daily Action Pack](//nfts/packs.md#daily-action-pack) drop is happening right now on [R.Land](https://play.r.land/drop). Supply is limited!
+Need more Daily Actions? The [Daily Action Pack](/nfts/packs.md#daily-action-pack) drop is happening right now on [R.Land](https://play.r.land/drop). Supply is limited!
 :::
 
 :::success
-Players can receive discounts for the [Daily Action Pack](//nfts/packs.md#daily-action-pack) drop (up to 75% total) by providing liquidity to the [BIT/Wax Liquidity Pool](broken-reference) on [Defibox](https://wax.defibox.io/marketDetail/131) and staking the respective liquidity tokens (BOXEA) for at least 90 days on R.Land.
+Players can receive discounts for the [Daily Action Pack](/nfts/packs.md#daily-action-pack) drop (up to 75% total) by providing liquidity to the [BIT/Wax Liquidity Pool](broken-reference) on [Defibox](https://wax.defibox.io/marketDetail/131) and staking the respective liquidity tokens (BOXEA) for at least 90 days on R.Land.
 :::
 
 ### Owner Shards, Lands and Land Contracts
@@ -111,7 +111,7 @@ Players can receive discounts for the [Daily Action Pack](//nfts/packs.md#daily-
 
 </div>
 
-[Owner Shards](broken-reference), [Lands](broken-reference) and [Land Contracts](//nfts/land-and-tool-contracts) generate the following amounts of Daily Actions, depending on their rarity:
+[Owner Shards](broken-reference), [Lands](broken-reference) and [Land Contracts](/nfts/land-and-tool-contracts) generate the following amounts of Daily Actions, depending on their rarity:
 
 | Asset Rarity (OS, Land, Land Contract) | Daily Actions |
 | -------------------------------------- | :-----------: |
@@ -134,7 +134,7 @@ Players can receive discounts for the [Daily Action Pack](//nfts/packs.md#daily-
 
 </div>
 
-Some of the higher rarity [Tools](broken-reference) and [Tool Contracts](//nfts/land-and-tool-contracts) also generate Daily Actions:
+Some of the higher rarity [Tools](broken-reference) and [Tool Contracts](/nfts/land-and-tool-contracts) also generate Daily Actions:
 
 | Asset Rarity (Tool, Tool Contract) | Daily Actions |
 | ---------------------------------- | :-----------: |

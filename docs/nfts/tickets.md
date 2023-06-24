@@ -116,9 +116,9 @@ These pre-order purchasing options are no longer available, as the "Bonus Ticket
 
 </div>
 
-![Rare Alloy Land Bonus Ticket](//img/ticket\_alloy\_rare-de1d79d3\_comp.webp) ![Epic Alloy Land Bonus Ticket](//img/ticket\_alloy\_epic-f76c1190\_comp.webp)
+![Rare Alloy Land Bonus Ticket](/img/ticket\_alloy\_rare-de1d79d3\_comp.webp) ![Epic Alloy Land Bonus Ticket](/img/ticket\_alloy\_epic-f76c1190\_comp.webp)
 
-![Legendary Alloy Land Bonus Ticket](//img/ticket\_alloy\_legendary-d3b8063e\_comp.webp) ![Mythic Alloy Land Bonus Ticket](//img/ticket\_alloy\_mythic-fd68cde1\_comp.webp)
+![Legendary Alloy Land Bonus Ticket](/img/ticket\_alloy\_legendary-d3b8063e\_comp.webp) ![Mythic Alloy Land Bonus Ticket](/img/ticket\_alloy\_mythic-fd68cde1\_comp.webp)
 
 During the "Bonus Ticket Pre-Order Event", [Land](broken-reference) Bonus Tickets were available for a limited time, exclusively purchasable with [BIT-Tokens](/tokenomics/bit-token):
 
@@ -147,9 +147,9 @@ Bonus Tickets are available on [AtomicHub](https://wax.atomichub.io/market?colle
 These pre-order purchasing options are no longer available, as the "Bonus Ticket Pre-Order Event" has ended.
 :::
 
-![Rare Multi Axe Ticket](//img/ticket\_axe\_rare-8441bc7b\_comp.webp) ![Epic Silver Axe Ticket](//img/ticket\_axe\_epic-d69f5dc5\_comp.webp)
+![Rare Multi Axe Ticket](/img/ticket\_axe\_rare-8441bc7b\_comp.webp) ![Epic Silver Axe Ticket](/img/ticket\_axe\_epic-d69f5dc5\_comp.webp)
 
-![ Legendary Gold Axe Ticket](//img/ticket\_axe\_legendary-b3a1a4a2\_comp.webp) ![ Mythic Black Diamond Axe Ticket](//img/ticket\_axe\_mythic-3c440664\_comp.webp)
+![ Legendary Gold Axe Ticket](/img/ticket\_axe\_legendary-b3a1a4a2\_comp.webp) ![ Mythic Black Diamond Axe Ticket](/img/ticket\_axe\_mythic-3c440664\_comp.webp)
 
 During the "Bonus Ticket Pre-Order Event", [Tool](broken-reference) Bonus Tickets were available for a limited time, exclusively purchasable with [BIT-Tokens](/tokenomics/bit-token):
 

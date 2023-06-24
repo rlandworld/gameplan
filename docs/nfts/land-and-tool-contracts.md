@@ -13,7 +13,7 @@ sidebar_position: 2
 
 </div>
 
-![All Tool Contract Rarities from Wood (Common) to Black Diamond (Mythic)](//img/All\_Tool\_Contracts.jpg)
+![All Tool Contract Rarities from Wood (Common) to Black Diamond (Mythic)](/img/All\_Tool\_Contracts.jpg)
 
 ## What are Land and Tool Contracts?&#x20;
 
@@ -147,7 +147,7 @@ Contracts have the potential to be turned into fully owned [Lands and Tools](lan
 
 In order to achieve this, you need to [Upgrade](/gaming/r.land-mining-game/upgrading) your Contracts to level 1 000 (or higher) in the R.Land [Mining Game](/gaming/r.land-mining-game/). Once you have reached this threshold, you can either pay a certain amount of [BIT-Tokens](/tokenomics/bit-token) or use a [Bonus Ticket](broken-reference) to receive full ownership:
 
-![Getting Land Ownership](//img/Contracts\_to\_Ownership.PNG)
+![Getting Land Ownership](/img/Contracts\_to\_Ownership.PNG)
 
 ![Getting Tool Ownership](</img/Contracts\_to\_Tool\_Ownership_Kopie.webp>)
 

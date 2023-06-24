@@ -10,7 +10,7 @@ sidebar_position: 1
 Welcome to the R.Land Mining Game! If you are just starting out, you have two basic options to choose from:
 
 * **Use your own dedicated R.Land Mining NFTs to play**: \
-  Mine [Resources](//tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) efficiently using your own [Lands](//nfts/lands-and-tools.md#lands), [Tools](//nfts/lands-and-tools.md#tools) or [Contracts](//nfts/land-and-tool-contracts).
+  Mine [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) efficiently using your own [Lands](/nfts/lands-and-tools.md#lands), [Tools](/nfts/lands-and-tools.md#tools) or [Contracts](/nfts/land-and-tool-contracts).
 
 <div>
 
@@ -33,11 +33,11 @@ Welcome to the R.Land Mining Game! If you are just starting out, you have two ba
 </div>
 
 :::success
-Want to start mining with your own [Lands and Tools](//nfts/lands-and-tools) right away? Get them on [AtomicHub](https://wax.atomichub.io/market?collection\_name=rland\&order=desc\&sort=created\&symbol=WAX) or the [R.Land Marketplace](https://market.r.land).
+Want to start mining with your own [Lands and Tools](/nfts/lands-and-tools) right away? Get them on [AtomicHub](https://wax.atomichub.io/market?collection\_name=rland\&order=desc\&sort=created\&symbol=WAX) or the [R.Land Marketplace](https://market.r.land).
 :::
 
 * **Rent other player's Lands and Tools to play for free**: \
-  Mine [Resources](//tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) with [Public Mining (Free-To-Play)](public-mining-free-to-play.md).
+  Mine [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) with [Public Mining (Free-To-Play)](public-mining-free-to-play.md).
 
 <div>
 

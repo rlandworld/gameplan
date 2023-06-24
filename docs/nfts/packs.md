@@ -70,7 +70,7 @@ There are two different variants of [BIT-NFT](bit-nfts.md) Packs available, name
 
 [Booster](boosters.md) Packs were released on January 8th, 2022. Inside these packs you will find ten [Boosters](boosters.md) in four different rarities (Rare, Epic, Legendary, Mythic) and four different variants (Day, Week, Month, Once).
 
-![Booster Pack (BIT-Variant)](</img/BIT_boost\_comp.png>) ![Booster Pack (WAX-Variant)](</img/wax_Boost\_comp.png>) ![Booster Pack (TLM-Variant)](//img/TLM\_Boost\_comp.png)
+![Booster Pack (BIT-Variant)](</img/BIT_boost\_comp.png>) ![Booster Pack (WAX-Variant)](</img/wax_Boost\_comp.png>) ![Booster Pack (TLM-Variant)](/img/TLM\_Boost\_comp.png)
 
 ![Booster Pack (AETHER-Variant)](</img/Aether_Boost\_comp.png>) ![Booster Pack (BLU-Variant)](</img/BLU_boost\_comp.png>) ![Booster Pack (NEFTY-Variant)](</img/NEFTY_boost\_comp.png>)
 

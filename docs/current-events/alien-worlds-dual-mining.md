@@ -13,7 +13,7 @@ The "Alien Worlds Dual-Mining Event" is currenty not available since Alien World
 
 The "Alien Worlds Dual-Mining Event" is now live! Mine on our Lands in [Alien Worlds](https://alienworlds.io/) and earn [BIT-Tokens ](/tokenomics/bit-token)as an additional reward!
 
-![Dual Mining in Alien Worlds](//img/AWDualMining.png)
+![Dual Mining in Alien Worlds](/img/AWDualMining.png)
 
 :::success
 You can also earn [BIT-Tokens](/tokenomics/bit-token) as a reward for providing liquidity on Defibox. Learn more about [Defibox Liquidity Mining](defibox-liquidity-mining.md).
