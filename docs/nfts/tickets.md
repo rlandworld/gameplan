@@ -7,11 +7,11 @@ sidebar_position: 8
 
 # 🎫 Tickets
 
-<center><img src="/img/ALL OS TICKETS.png" alt="" /><figcaption><p>Standard and Guaranteed Owner Shard Tickets</p></figcaption></center>
+<center><img src="/img/ALL_OS_TICKETS.png" alt="" /><figcaption><p>Standard and Guaranteed Owner Shard Tickets</p></figcaption></center>
 
-<center><img src="/img/ALL BONUS LAND TICKETS.png" alt="" /><figcaption><p>All Land Bonus Tickets from Common to Mythic (<mark style={{ color:'yellow' }}>Alloy</mark> Variant)</p></figcaption></center>
+<center><img src="/img/ALL_BONUS_LAND_TICKETS.png" alt="" /><figcaption><p>All Land Bonus Tickets from Common to Mythic (<mark style={{ color:'yellow' }}>Alloy</mark> Variant)</p></figcaption></center>
 
-<center><img src="/img/ALL BONUS TOOL TICKETS.png" alt="" /><figcaption><p>All Tool Bonus Tickets from Rare to Mythic</p></figcaption></center>
+<center><img src="/img/ALL_BONUS_TOOL_TICKETS.png" alt="" /><figcaption><p>All Tool Bonus Tickets from Rare to Mythic</p></figcaption></center>
 
 ## What are Tickets?
 
@@ -38,15 +38,15 @@ Blending of Standard Owner Shard Tickets is no longer available, as the "Owner S
 
 <div>
 
-<center><img src="/img/epic blend.png" alt="" /><figcaption><p>Epic OS Ticket</p></figcaption></center>
+<center><img src="/img/epic_blend.png" alt="" /><figcaption><p>Epic OS Ticket</p></figcaption></center>
 
  
 
-<center><img src="/img/legendary ticket.png" alt="" /><figcaption><p>Legendary OS Ticket</p></figcaption></center>
+<center><img src="/img/legendary_ticket.png" alt="" /><figcaption><p>Legendary OS Ticket</p></figcaption></center>
 
  
 
-<center><img src="/img/mythic ticket.png" alt="" /><figcaption><p>Mythic OS Ticket</p></figcaption></center>
+<center><img src="/img/Mythic_Ticket.png" alt="" /><figcaption><p>Mythic OS Ticket</p></figcaption></center>
 
 </div>
 
