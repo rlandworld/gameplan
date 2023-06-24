@@ -1,0 +1,9 @@
+---
+description: While R.Land builds its reputation on Web 3.0, you can follow us on Web 2.0!
+cover: /img/logo_baby_head_comp.webp
+coverY: 0
+---
+
+# 📢 Socials
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>R.Land Twitter</td><td></td><td></td><td><a href="/img/Twitter-logo.svg.webp">Twitter-logo.svg.webp</a></td><td><a href="https://twitter.com/rlandworld">https://twitter.com/rlandworld</a></td></tr><tr><td>R.Land Discord</td><td></td><td></td><td><a href="/img/Discord-Logo.png">Discord-Logo.png</a></td><td><a href="https://discord.gg/rland">https://discord.gg/rland</a></td></tr><tr><td>R.Land Telegram</td><td></td><td></td><td><a href="/img/Telegram-Logo.png">Telegram-Logo.png</a></td><td><a href="https://t.me/rlandworld">https://t.me/rlandworld</a></td></tr><tr><td>R.Land Youtube</td><td></td><td></td><td><a href="/img/YouTube_social_white_squircle.svg.png">YouTube_social_white_squircle.svg.png</a></td><td><a href="https://www.youtube.com/channel/UC8ojWURGtLOgjkkktmIzfCQ">https://www.youtube.com/channel/UC8ojWURGtLOgjkkktmIzfCQ</a></td></tr><tr><td>R.Land Instagram</td><td></td><td></td><td><a href="/img/Instagram_logo_2016.svg.webp">Instagram_logo_2016.svg.webp</a></td><td><a href="https://www.instagram.com/rlandworld/">https://www.instagram.com/rlandworld/</a></td></tr><tr><td>R.Land Facebook</td><td></td><td></td><td><a href="/img/Facebook_Logo_(2019).png.webp">Facebook_Logo_(2019).png.webp</a></td><td><a href="https://www.facebook.com/rlandworld">https://www.facebook.com/rlandworld</a></td></tr><tr><td>R.Land Reddit</td><td></td><td></td><td><a href="/img/free-reddit-logo-icon-2436-thumb.png">free-reddit-logo-icon-2436-thumb.png</a></td><td><a href="https://www.reddit.com/user/rlandworld">https://www.reddit.com/user/rlandworld</a></td></tr></tbody></table>
