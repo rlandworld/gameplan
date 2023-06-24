@@ -90,7 +90,7 @@ Also be careful to not accidentally stop a mining session early when using a "On
 :::
 
 :::info
-The duration of each mining session is determined by the level of your respective [Tool](broken-reference) or [Tool Contract](land-and-tool-contracts.md). Each level equals one minute of mining time.
+The duration of each mining session is determined by the level of your respective [Tool](/nfts/lands-and-tools) or [Tool Contract](land-and-tool-contracts.md). Each level equals one minute of mining time.
 
 For example, at level 100 000 (current max. level available via [Upgrading](/gaming/r.land-mining-game/upgrading)) the mining session will last for 100 000 minutes (or 69.4 days). Consequently, "Once" Boosters have the highest boost duration potential among all variants.
 :::

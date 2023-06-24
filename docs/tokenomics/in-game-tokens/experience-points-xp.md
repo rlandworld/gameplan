@@ -18,7 +18,7 @@ Similiar to other [In-Game Tokens](./), Experience Points exist only inside the 
 :::
 
 :::info
-In the R.Land [Mining Game](/gaming/r.land-mining-game/) the amount of Experience Points (XP) earned per mining session equals 8% of the [Resource](broken-reference) production per minute (RPM) of the used [Tool](/nfts/lands-and-tools), up to a maximum of 1 XP per minute for each [Land](broken-reference) or [Land Contract](/nfts/land-and-tool-contracts) you are mining on.
+In the R.Land [Mining Game](/gaming/r.land-mining-game/) the amount of Experience Points (XP) earned per mining session equals 8% of the [Resource](/category/essentials) production per minute (RPM) of the used [Tool](/nfts/lands-and-tools), up to a maximum of 1 XP per minute for each [Land](/nfts/lands-and-tools) or [Land Contract](/nfts/land-and-tool-contracts) you are mining on.
 :::
 
 ## Why are Experience Points (XP) needed?

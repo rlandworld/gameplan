@@ -15,7 +15,7 @@ Being one of the essential [In-Game Tokens](./) of R.Land, "Actions" are needed 
 
 * Mining in the R.Land [Mining Game](/gaming/r.land-mining-game/)
 * Buying and Selling [Experience Points (XP)](experience-points-xp.md)
-* Upgrading [Lands](broken-reference), [Tools](broken-reference) and [Contracts](/nfts/land-and-tool-contracts)
+* Upgrading [Lands](/nfts/lands-and-tools), [Tools](/nfts/lands-and-tools) and [Contracts](/nfts/land-and-tool-contracts)
 * Withdrawing [BIT-Tokens](/bit-token) to your [Wax-Wallet](/essentials/r.land-in-game-wallet-vs.-wax-wallet)
 * Renting [Lands](/nfts/lands-and-tools.md#lands) and [Tools](/nfts/lands-and-tools.md#tools) with [Public Mining (Free-To-Play)](/gaming/r.land-mining-game/public-mining-free-to-play).
 
@@ -58,8 +58,8 @@ They get credited to your R.Land [In-Game Wallet](/essentials/r.land-in-game-wal
 
 * [Daily Action NFTs](/nfts/daily-actions-nfts)
 * [Owner Shards (OS)](/nfts/owner-shards-os)
-* [Lands](broken-reference) and [Land Contracts](/nfts/land-and-tool-contracts)
-* [Tools](broken-reference) and [Tool Contracts](/nfts/land-and-tool-contracts) (only "Rare" and above rarity)
+* [Lands](/nfts/lands-and-tools) and [Land Contracts](/nfts/land-and-tool-contracts)
+* [Tools](/nfts/lands-and-tools) and [Tool Contracts](/nfts/land-and-tool-contracts) (only "Rare" and above rarity)
 
 :::info
 Daily Actions do not stack, so make sure the use all your available Daily Actions within  every 24 hours.
@@ -92,7 +92,7 @@ Need more Daily Actions? The [Daily Action Pack](/nfts/packs.md#daily-action-pac
 :::
 
 :::success
-Players can receive discounts for the [Daily Action Pack](/nfts/packs.md#daily-action-pack) drop (up to 75% total) by providing liquidity to the [BIT/Wax Liquidity Pool](broken-reference) on [Defibox](https://wax.defibox.io/marketDetail/131) and staking the respective liquidity tokens (BOXEA) for at least 90 days on R.Land.
+Players can receive discounts for the [Daily Action Pack](/nfts/packs.md#daily-action-pack) drop (up to 75% total) by providing liquidity to the [BIT/Wax Liquidity Pool](/current-events/defibox-liquidity-mining) on [Defibox](https://wax.defibox.io/marketDetail/131) and staking the respective liquidity tokens (BOXEA) for at least 90 days on R.Land.
 :::
 
 ### Owner Shards, Lands and Land Contracts
@@ -111,7 +111,7 @@ Players can receive discounts for the [Daily Action Pack](/nfts/packs.md#daily-a
 
 </div>
 
-[Owner Shards](broken-reference), [Lands](broken-reference) and [Land Contracts](/nfts/land-and-tool-contracts) generate the following amounts of Daily Actions, depending on their rarity:
+[Owner Shards](/nfts/owner-shards-os), [Lands](/nfts/lands-and-tools) and [Land Contracts](/nfts/land-and-tool-contracts) generate the following amounts of Daily Actions, depending on their rarity:
 
 | Asset Rarity (OS, Land, Land Contract) | Daily Actions |
 | -------------------------------------- | :-----------: |
@@ -134,7 +134,7 @@ Players can receive discounts for the [Daily Action Pack](/nfts/packs.md#daily-a
 
 </div>
 
-Some of the higher rarity [Tools](broken-reference) and [Tool Contracts](/nfts/land-and-tool-contracts) also generate Daily Actions:
+Some of the higher rarity [Tools](/nfts/lands-and-tools) and [Tool Contracts](/nfts/land-and-tool-contracts) also generate Daily Actions:
 
 | Asset Rarity (Tool, Tool Contract) | Daily Actions |
 | ---------------------------------- | :-----------: |

@@ -21,7 +21,7 @@ The XP costs for [Land](/nfts/lands-and-tools.md#lands), [Tool](/nfts/lands-and-
 | <p>Tool / <br/>Tool Contract</p> |   300  |    300   |  350 |  400 |    450    |  1500  |
 
 :::info
-The amount of "[Experience Points](/tokenomics/in-game-tokens/experience-points-xp)" (XP) earned per mining session equals 8% of the [Resource](broken-reference) production per minute (RPM) of the used [Tool](/nfts/lands-and-tools), up to a maximum of 1 XP per minute for each [Land](broken-reference) or [Land Contract](/nfts/land-and-tool-contracts) you are mining on.
+The amount of "[Experience Points](/tokenomics/in-game-tokens/experience-points-xp)" (XP) earned per mining session equals 8% of the [Resource](/essentials) production per minute (RPM) of the used [Tool](/nfts/lands-and-tools), up to a maximum of 1 XP per minute for each [Land](/essentials) or [Land Contract](/nfts/land-and-tool-contracts) you are mining on.
 :::
 
 :::success

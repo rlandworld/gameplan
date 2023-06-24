@@ -9,7 +9,7 @@ sidebar_position: 9
 
 ## Bid Wars 1.0
 
-In May 2022, the very first Bidding Event called "Bid Wars 1.0" took place on [R.Land](https://r.land/bid). Up for the taking were some of the most valueable [R.Land NFTs](broken-reference):&#x20;
+In May 2022, the very first Bidding Event called "Bid Wars 1.0" took place on [R.Land](https://r.land/bid). Up for the taking were some of the most valueable [R.Land NFTs](/category/nfts):&#x20;
 
 * **"Mythic Black Diamond Pickaxe"** (Highest sold for 20k WAX)
 * **"Guaranteed Whale Pack Ticket"** (Highest sold for 10k WAX)

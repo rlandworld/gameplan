@@ -28,7 +28,7 @@ The current max. [Level](upgrading.md) for [Lands](/nfts/lands-and-tools.md#land
 :::
 
 :::success
-For general information about R.Land assets visit R.Land [NFTs](broken-reference).
+For general information about R.Land assets visit R.Land [NFTs](/nfts).
 :::
 
 :::success

@@ -41,7 +41,7 @@ Want to start mining with your own [Lands and Tools](/nfts/lands-and-tools) righ
 
 <div>
 
-<center><img src="/img/thumbs_up_NOsmile_badge (1).png" alt="" /><figcaption><p>"Try out the Mining Game for free with <br/><a href="public-mining-free-to-play.md">Public Mining</a>. You can always upgrade <br/>to mining with your own R.Land <a href="broken-reference">NFTs</a> later!"<br/>- Dr. Baby Girl</p></figcaption></center>
+<center><img src="/img/thumbs_up_NOsmile_badge (1).png" alt="" /><figcaption><p>"Try out the Mining Game for free with <br/><a href="public-mining-free-to-play.md">Public Mining</a>. You can always upgrade <br/>to mining with your own R.Land <a href="/nfts">NFTs</a> later!"<br/>- Dr. Baby Girl</p></figcaption></center>
 
  
 
@@ -50,7 +50,7 @@ Want to start mining with your own [Lands and Tools](/nfts/lands-and-tools) righ
 </div>
 
 :::info
-Mining with your own dedicated R.Land Mining [NFTs](broken-reference) has a much higher mining output potential compared to [Public Mining (Free-To-Play)](public-mining-free-to-play.md).
+Mining with your own dedicated R.Land Mining [NFTs](/nfts) has a much higher mining output potential compared to [Public Mining (Free-To-Play)](public-mining-free-to-play.md).
 :::
 
 :::success

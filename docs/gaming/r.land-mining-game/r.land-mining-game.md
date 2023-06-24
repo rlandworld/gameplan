@@ -24,5 +24,5 @@ In January 2023, we released the first version of the Mining Game 2.0, including
 In the following chapters we will guide you through everything you need to know about the R.Land Mining Game 2.0, so you can prepare yourself for what is yet to come!
 
 :::success
-Want to learn more about R.Land's assets before diving into the [Mining Basics](mining-basics.md)? Head to the R.Land [NFTs](broken-reference) section.
+Want to learn more about R.Land's assets before diving into the [Mining Basics](mining-basics.md)? Head to the R.Land [NFTs](/nfts) section.
 :::

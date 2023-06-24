@@ -104,7 +104,7 @@ Each of the above rarities can appear in four different variants (Day, Week, Mon
 For example: To get an "8x Day" Booster, the combined odds are `0.04 * 0.70 = 2.80%`.
 
 :::info
-A secret blend of all six Booster Pack variants will be available in the future. Rumors say that it might result in a permanent [Booster](boosters.md) for your precious [Lands](broken-reference).
+A secret blend of all six Booster Pack variants will be available in the future. Rumors say that it might result in a permanent [Booster](boosters.md) for your precious [Lands](/nfts/lands-and-tools).
 :::
 
 :::success

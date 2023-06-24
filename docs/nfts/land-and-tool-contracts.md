@@ -17,7 +17,7 @@ sidebar_position: 2
 
 ## What are Land and Tool Contracts?&#x20;
 
-Land and Tool Contracts NFTs are the basic assets to mine [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) in the R.Land [Mining Game](/gaming/r.land-mining-game/). They grant a player access to mine on individual [Lands](broken-reference) with dedicated [Tools](broken-reference) in exchange for a [Rental Fee](land-and-tool-contracts.md#contract-rental-fees).&#x20;
+Land and Tool Contracts NFTs are the basic assets to mine [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) in the R.Land [Mining Game](/gaming/r.land-mining-game/). They grant a player access to mine on individual [Lands](/nfts/lands-and-tools) with dedicated [Tools](/nfts/lands-and-tools) in exchange for a [Rental Fee](land-and-tool-contracts.md#contract-rental-fees).&#x20;
 
 Compared to [Public Mining (Free-To-Play)](/gaming/r.land-mining-game/public-mining-free-to-play), mining with Contracts has the potential to achieve a much higher mining output. Contracts are also the first step towards full [Land and Tool](lands-and-tools.md) ownership in R.Land.
 
@@ -145,7 +145,7 @@ Don't want to pay Rental Fees for mining? Get full ownership of your [Lands and 
 
 Contracts have the potential to be turned into fully owned [Lands and Tools](lands-and-tools.md), which (among several other [Ownership Benefits](lands-and-tools.md#ownership-benefits)) completely eliminates all [Rental Fees](land-and-tool-contracts.md#rental-fees) and will give you the option to earn from NFT [Advertisements](/upcoming-features/nft-skins-and-advertisments) in the future.
 
-In order to achieve this, you need to [Upgrade](/gaming/r.land-mining-game/upgrading) your Contracts to level 1 000 (or higher) in the R.Land [Mining Game](/gaming/r.land-mining-game/). Once you have reached this threshold, you can either pay a certain amount of [BIT-Tokens](/tokenomics/bit-token) or use a [Bonus Ticket](broken-reference) to receive full ownership:
+In order to achieve this, you need to [Upgrade](/gaming/r.land-mining-game/upgrading) your Contracts to level 1 000 (or higher) in the R.Land [Mining Game](/gaming/r.land-mining-game/). Once you have reached this threshold, you can either pay a certain amount of [BIT-Tokens](/tokenomics/bit-token) or use a [Bonus Ticket](/nfts/tickets) to receive full ownership:
 
 ![Getting Land Ownership](/img/Contracts\_to\_Ownership.PNG)
 
