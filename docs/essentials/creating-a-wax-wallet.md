@@ -19,9 +19,18 @@ In order to get access to all of R.Land's features, you need to set up your own 
 
 Attached you find a short video tutorial on "How to create a WAX Wallet":
 
-{% embed url="https://www.youtube.com/watch?v=0U1VTx8owbQ" %}
+<!-- {% embed url="https://www.youtube.com/watch?v=0U1VTx8owbQ" %}
+<video>
 How to Create a Wax Wallet
-{% endembed %}
+</video>
+{% endembed %} -->
+
+<iframe style={{width:"100%", aspectRatio: "16/9"}} 
+src="https://www.youtube.com/embed/0U1VTx8owbQ" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
 
 :::success
 Experienced users can also use self-managed wallets like [Anchor](https://greymass.com/en/anchor/) or [Wombat](https://www.wombat.app/).
