@@ -11,8 +11,8 @@ Your [Lands](/nfts/lands-and-tools.md#lands), [Tools](/nfts/lands-and-tools.md#t
 
 Leveling up your [Tools](/nfts/lands-and-tools.md#tools) or [Tool Contracts](/nfts/land-and-tool-contracts) also extends the duration of your mining sessions by 1 minute for each level. After reaching level 1 000 or higher on any [Contract](/nfts/land-and-tool-contracts), you can [Obtain Ownership From Contracts](/nfts/land-and-tool-contracts.md#obtaining-ownership-from-contracts).
 
-In order to perform an upgrade you need "[Experience Points](/tokenomics/in-game-tokens/experience-points-xp)" (XP) as well as "[Actions](/tokenomics/in-game-tokens/actions-sa-da)", more precisely 1 [Action](/tokenomics/in-game-tokens/actions-sa-da) per 250 XP spent on upgrading. \
-\
+In order to perform an upgrade you need "[Experience Points](/tokenomics/in-game-tokens/experience-points-xp)" (XP) as well as "[Actions](/tokenomics/in-game-tokens/actions-sa-da)", more precisely 1 [Action](/tokenomics/in-game-tokens/actions-sa-da) per 250 XP spent on upgrading. 
+
 The XP costs for [Land](/nfts/lands-and-tools.md#lands), [Tool](/nfts/lands-and-tools.md#tools) and [Contract](/nfts/land-and-tool-contracts) upgrades are as follows:
 
 |            XP needed            | Common | Uncommon | Rare | Epic | Legendary | Mythic |

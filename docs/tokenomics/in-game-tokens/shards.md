@@ -13,7 +13,7 @@ sidebar_position: 4
 
 In April 2022, a community contest was launched in order to create the "Shards" token design. One of these will be the final token design:
 
-<center><img src="/img/2022-11-07 15_41_22-spaces_FmS9b8Kbddmm1EFEIZ2J_uploads_CRVwAUZWhx5ynwBhxlJI_Comp_1_1.gif (1920×1080.png" alt="" /><figcaption><p>Five community design ideas for the "Shard"-Token</p></figcaption></center>
+<center><img src="/img/2022-11-07_15_41_22-spaces_FmS9b8Kbddmm1EFEIZ2J_uploads_CRVwAUZWhx5ynwBhxlJI_Comp_1_1.gif_(1920×1080.png" alt="" /><figcaption><p>Five community design ideas for the "Shard"-Token</p></figcaption></center>
 
 :::info
 Check out our [Roadmap](/upcoming-features/roadmap) for more information on upcoming features.

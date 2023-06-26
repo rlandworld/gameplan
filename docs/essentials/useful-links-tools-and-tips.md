@@ -33,20 +33,20 @@ Below you will find a list of useful links and tools that will help you on your 
 Open your [WAX Wallet](https://wallet.wax.io/dashboard) and click on "Manage" (under "Tokens") -> "Add Custom Token". Now enter the following information for [BIT-Token](/tokenomics/bit-token) as shown below.
 
 :::info
-_Token symbol_: BIT \
-_Decimals_: 4 \
-_Contract_: rland \
-_Display_: BIT Token \
-_Image_: https://r.land/bit/bit\_multi\_125.webp
+_Token symbol_: **BIT** <br/>
+_Decimals_: **4** <br/>
+_Contract_: **rland** <br/>
+_Display_: **BIT Token** <br/>
+_Image_: **https://r.land/bit/bit_multi_125.webp**
 :::
 
-<center><img src="/img/add BIT.PNG" alt="" /><figcaption><p>Adding "BIT-Token" to your WAX Wallet</p></figcaption></center>
+<center><img src="/img/add_BIT.PNG" alt="" /><figcaption><p>Adding "BIT-Token" to your WAX Wallet</p></figcaption></center>
 
 ### Tip #2: Add R.Land's accounts as friends in AtomicHub!
 
 Did you know? If you add official R.Land wallet addresses like `claim.rland` as a friend to your [AtomicHub](https://wax.atomichub.io/friends) account, the account name will show up automatically when you setup a transfer and start typing. By doing this so, you can avoid typos and potentially losing your valuable assets.
 
-<center><img src="/img/Find Friends.PNG" alt="" /><figcaption><p>Adding "claim.rland" as a friend in AtomicHub</p></figcaption></center>
+<center><img src="/img/Find_Friends.PNG" alt="" /><figcaption><p>Adding "claim.rland" as a friend in AtomicHub</p></figcaption></center>
 
 This also works for the other important R.Land wallet addresses like `mint.rland`, `stake.rland` etc.
 

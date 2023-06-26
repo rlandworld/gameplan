@@ -7,7 +7,7 @@ sidebar_position: 2
 
 # 🟨 Actions (SA,DA)
 
-<center><img src="/img/Actions Balance.PNG" alt="" /><figcaption><p>Example of Actions-Balance <br/>in your R.Land In-Game Wallet</p></figcaption></center>
+<center><img src="/img/Actions_Balance.PNG" alt="" /><figcaption><p>Example of Actions-Balance <br/>in your R.Land In-Game Wallet</p></figcaption></center>
 
 ## What are Actions?
 
@@ -24,8 +24,8 @@ There are two different types of Actions available:
 * Single Actions (SA)
 * Daily Actions (DA)
 
-Daily Actions (DA) and Single Actions (SA) can be used in the same way. They only differentiate by the fact that Daily Actions (DA) get refilled automatically after 24 hours, and Single Action (SA) simply get consumed once used. \
-\
+Daily Actions (DA) and Single Actions (SA) can be used in the same way. They only differentiate by the fact that Daily Actions (DA) get refilled automatically after 24 hours, and Single Action (SA) simply get consumed once used. 
+
 The total amount of Actions you see in your balance is based on the sum of the remaining Daily Actions (DA) for that specific day and your available amount of Single Actions (SA):
 
 **Actions = Daily Actions (DA) + Single Actions (SA)**
@@ -52,8 +52,8 @@ You can also trade Single Actions for [BIT-Tokens](/bit-token) on the [In-Game T
 
 ## What are Daily Actions?
 
-"Daily Actions" are a special kind of Actions which are regenerated to your available Actions balance every 24 hours, on a rolling basis, after being used.\
-\
+"Daily Actions" are a special kind of Actions which are regenerated to your available Actions balance every 24 hours, on a rolling basis, after being used.
+
 They get credited to your R.Land [In-Game Wallet](/essentials/r.land-in-game-wallet-vs.-wax-wallet) automatically by owning certain R.Land assets, such as:
 
 * [Daily Action NFTs](/nfts/daily-actions-nfts)
@@ -71,17 +71,16 @@ New players will start out with 50 Daily Actions for free (until a certain thres
 
 ### Daily Action NFTs
 
-<div>
+<div class="fixthis">
 
-<img src="/img/1.webp" alt="Daily Actions NFT (Mint #1)" />
-
+<center><img src="/img/1.webp" alt="Daily Actions NFT (Mint #1)" /></center>
  
 
 <center><img src="/img/593.webp" alt="" /><figcaption><p>Daily Actions NFT (Mint #593)</p></figcaption></center>
 
  
 
-<center><img src="/img/1004 DA.webp" alt="" /><figcaption><p>Bonus Daily Actions NFT (Mint #1004)</p></figcaption></center>
+<center><img src="/img/1004_DA.webp" alt="" /><figcaption><p>Bonus Daily Actions NFT (Mint #1004)</p></figcaption></center>
 
 </div>
 
@@ -97,9 +96,9 @@ Players can receive discounts for the [Daily Action Pack](/nfts/packs.md#daily-a
 
 ### Owner Shards, Lands and Land Contracts
 
-<div>
+<div class="fixthis">
 
-<center><img src="/img/Mythic rGas Small.webp" alt="" /><figcaption><p>Mythic Owner Shard <br/>(<mark style={{ color:'red' }}>rGas</mark> Variant)</p></figcaption></center>
+<center><img src="/img/Mythic_rGas_Small.webp" alt="" /><figcaption><p>Mythic Owner Shard <br/>(<mark style={{ color:'red' }}>rGas</mark> Variant)</p></figcaption></center>
 
  
 
@@ -124,7 +123,7 @@ Players can receive discounts for the [Daily Action Pack](/nfts/packs.md#daily-a
 
 ### Tools and Tool Contracts
 
-<div>
+<div class="fixthis">
 
 <center><img src="/img/axe_mythic-bcd869e5_comp2.webp" alt="" /><figcaption><p>Mythic Tool (<mark style={{ color:'purple' }}>Black Diamond</mark> Pickaxe)</p></figcaption></center>
 

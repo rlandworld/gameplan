@@ -11,21 +11,21 @@ sidebar_position: 7
 
 R.Land's very first sale, the [Owner Shard](owner-shards-os.md) Pack drop, took place on October 17th, 2021.
 
-<div>
+<div class="fixthis">
 
-<center><img src="/img/Solo pack.png" alt="" /><figcaption><p>OS Solo Pack</p></figcaption></center>
-
- 
-
-<center><img src="/img/Shark pack.png" alt="" /><figcaption><p>OS Shark Pack</p></figcaption></center>
+<center><img src="/img/Solo_pack.png" alt="" /><figcaption><p>OS Solo Pack</p></figcaption></center>
 
  
 
-<center><img src="/img/Gold Pack.png" alt="" /><figcaption><p>OS Gold Pack</p></figcaption></center>
+<center><img src="/img/Shark_pack.png" alt="" /><figcaption><p>OS Shark Pack</p></figcaption></center>
 
  
 
-<center><img src="/img/Whale pack.png" alt="" /><figcaption><p>OS Whale Pack</p></figcaption></center>
+<center><img src="/img/Gold_Pack.png" alt="" /><figcaption><p>OS Gold Pack</p></figcaption></center>
+
+ 
+
+<center><img src="/img/Whale_pack.png" alt="" /><figcaption><p>OS Whale Pack</p></figcaption></center>
 
 </div>
 
@@ -70,9 +70,7 @@ There are two different variants of [BIT-NFT](bit-nfts.md) Packs available, name
 
 [Booster](boosters.md) Packs were released on January 8th, 2022. Inside these packs you will find ten [Boosters](boosters.md) in four different rarities (Rare, Epic, Legendary, Mythic) and four different variants (Day, Week, Month, Once).
 
-![Booster Pack (BIT-Variant)](</img/BIT_boost\_comp.png>) ![Booster Pack (WAX-Variant)](</img/wax_Boost\_comp.png>) ![Booster Pack (TLM-Variant)](/img/TLM\_Boost\_comp.png)
-
-![Booster Pack (AETHER-Variant)](</img/Aether_Boost\_comp.png>) ![Booster Pack (BLU-Variant)](</img/BLU_boost\_comp.png>) ![Booster Pack (NEFTY-Variant)](</img/NEFTY_boost\_comp.png>)
+![Booster Pack (BIT-Variant)](</img/BIT_boost\_comp.png>) ![Booster Pack (WAX-Variant)](</img/wax_Boost\_comp.png>) ![Booster Pack (TLM-Variant)](/img/TLM\_Boost\_comp.png) ![Booster Pack (AETHER-Variant)](</img/Aether_Boost\_comp.png>) ![Booster Pack (BLU-Variant)](</img/BLU_boost\_comp.png>) ![Booster Pack (NEFTY-Variant)](</img/NEFTY_boost\_comp.png>)
 
 There were six different variants of Booster Packs available, depending on the token used for purchasing:
 

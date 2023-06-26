@@ -77,7 +77,7 @@ Each different Owner Shard variant automatically produces its respective [Resour
 
 Each Owner Shard variant is available in six different rarities ranging from "Common" to "Mythic":&#x20;
 
-<div class="flex justify-center gap-1">
+<div class="flex justify-center gap-1 fixthis" >
 
 <div>
 <img src="/img/rgas_common.webp" alt="" />

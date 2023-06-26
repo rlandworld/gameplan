@@ -11,11 +11,11 @@ The R.Land "Crafting Game" is an upcoming feature, which will allow players to c
 
 ### Sneak Peak #1: The Crafting Generator
 
-<center><img src="/img/Generator Kopie.png" alt="" /><figcaption></figcaption></center>
+<center><img src="/img/Generator_Kopie.png" alt="" /><figcaption></figcaption></center>
 
 ### Sneak Peak #2: The Rigs
 
-<div>
+<div class="fixthis">
 
 <center><img src="/img/2.png" alt="" /><figcaption><p>Common Rig</p></figcaption></center>
 

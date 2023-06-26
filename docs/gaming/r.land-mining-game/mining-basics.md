@@ -9,7 +9,7 @@ sidebar_position: 1
 
 Welcome to the R.Land Mining Game! If you are just starting out, you have two basic options to choose from:
 
-* **Use your own dedicated R.Land Mining NFTs to play**: \
+* **Use your own dedicated R.Land Mining NFTs to play**: <br/>
   Mine [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) efficiently using your own [Lands](/nfts/lands-and-tools.md#lands), [Tools](/nfts/lands-and-tools.md#tools) or [Contracts](/nfts/land-and-tool-contracts).
 
 <div>
@@ -36,16 +36,16 @@ Welcome to the R.Land Mining Game! If you are just starting out, you have two ba
 Want to start mining with your own [Lands and Tools](/nfts/lands-and-tools) right away? Get them on [AtomicHub](https://wax.atomichub.io/market?collection\_name=rland\&order=desc\&sort=created\&symbol=WAX) or the [R.Land Marketplace](https://market.r.land).
 :::
 
-* **Rent other player's Lands and Tools to play for free**: \
+* **Rent other player's Lands and Tools to play for free**: <br/>
   Mine [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) with [Public Mining (Free-To-Play)](public-mining-free-to-play.md).
 
 <div>
 
-<center><img src="/img/thumbs_up_NOsmile_badge (1).png" alt="" /><figcaption><p>"Try out the Mining Game for free with <br/><a href="public-mining-free-to-play.md">Public Mining</a>. You can always upgrade <br/>to mining with your own R.Land <a href="/nfts">NFTs</a> later!"<br/>- Dr. Baby Girl</p></figcaption></center>
+<center><img src="/img/thumbs_up_NOsmile_badge_(1).png" alt="" /><figcaption><p>"Try out the Mining Game for free with <br/><a href="public-mining-free-to-play.md">Public Mining</a>. You can always upgrade <br/>to mining with your own R.Land <a href="/nfts">NFTs</a> later!"<br/>- Dr. Baby Girl</p></figcaption></center>
 
  
 
-<center><img src="/img/Public Mining Comp.jpg" alt="" /><figcaption><p>Public Mining (Free-To-Play) - Coming Soon!</p></figcaption></center>
+<center><img src="/img/Public_Mining_Comp.jpg" alt="" /><figcaption><p>Public Mining (Free-To-Play) - Coming Soon!</p></figcaption></center>
 
 </div>
 

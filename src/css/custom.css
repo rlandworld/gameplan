@@ -68,6 +68,9 @@ mark {
 .flex {
   display: flex;
 }
+.flex-col {
+  flex-direction: column;
+}
 .flex-wrap {
   flex-wrap: wrap;
 }
@@ -82,5 +85,15 @@ mark {
 }
 .gap-2{
   gap: 1em;
+}
+
+ /* I GOT LAZY!!! */
+.fixthis {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+}
+.fixthis p {
+  font-size: .75rem;
 }
 

@@ -7,9 +7,9 @@ sidebar_position: 3
 
 # 🏝 Lands and Tools
 
-<center><img src="/img/All_Lands_Pixel Kopie.jpg" alt="" /><figcaption><p>All Land Rarities from Common to Mythic (<mark style={{ color:'blue' }}>Pixel</mark> Variant)</p></figcaption></center>
+<center><img src="/img/All_Lands_Pixel_Kopie.jpg" alt="" /><figcaption><p>All Land Rarities from Common to Mythic (<mark style={{ color:'blue' }}>Pixel</mark> Variant)</p></figcaption></center>
 
-<center><img src="/img/All_Tools Kopie.jpg" alt="" /><figcaption><p>All Tool Rarities from Wood (Common) to <mark style={{ color:'purple' }}>Black Diamond</mark> (Mythic)</p></figcaption></center>
+<center><img src="/img/All_Tools_Kopie.jpg" alt="" /><figcaption><p>All Tool Rarities from Wood (Common) to <mark style={{ color:'purple' }}>Black Diamond</mark> (Mythic)</p></figcaption></center>
 
 ## Lands
 
@@ -19,7 +19,7 @@ Consequently, mining on owned Lands has the potential to achieve a much higher m
 
 Lands are available in four different variants (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'orange' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> and <mark style={{ color:'blue' }}>Pixel</mark>) and six different rarities ("Common" to "Mythic"). All Lands can be [Upgraded](/gaming/r.land-mining-game/upgrading) to significantly increase their mining capacity (current max. level is 100 000).
 
-<div>
+<div class="fixthis">
 
 <center><img src="/img/circuit_mythic-3c87765d_comp.webp" alt="" /><figcaption><p>Mythic Land (<mark style={{ color:'green' }}>Circuit</mark> Variant)</p></figcaption></center>
 
@@ -65,7 +65,7 @@ Consequently, mining with owned Tools has the potential to achieve a much higher
 
 Tools are available in six different rarities ("Common" to "Mythic"). All Tools can be [Upgraded](/gaming/r.land-mining-game/upgrading) to significantly increase their mining output and mining duration (current max. level is 100 000).
 
-<div>
+<div class="fixthis">
 
 <center><img src="/img/axe_common-80d9438b_comp.webp" alt="" /><figcaption><p>Wood Pickaxe (Common)</p></figcaption></center>
 
@@ -77,9 +77,7 @@ Tools are available in six different rarities ("Common" to "Mythic"). All Tools 
 
 <center><img src="/img/axe_rare-40eab4d1_comp.webp" alt="" /><figcaption><p>Multi Pickaxe (Rare)</p></figcaption></center>
 
-</div>
 
-<div>
 
 <center><img src="/img/axe_epic-91725737_comp.webp" alt="" /><figcaption><p>Silver Pickaxe (Epic)</p></figcaption></center>
 

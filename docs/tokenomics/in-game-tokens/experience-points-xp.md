@@ -7,7 +7,7 @@ sidebar_position: 3
 
 # 🟦 Experience Points (XP)
 
-<center><img src="/img/XP Balance.PNG" alt="" /><figcaption><p>Example of Experience Points (XP)-Balance <br/>in your R.Land In-Game Wallet</p></figcaption></center>
+<center><img src="/img/XP_Balance.PNG" alt="" /><figcaption><p>Example of Experience Points (XP)-Balance <br/>in your R.Land In-Game Wallet</p></figcaption></center>
 
 ## What are Experience Points (XP)?
 
@@ -23,8 +23,8 @@ In the R.Land [Mining Game](/gaming/r.land-mining-game/) the amount of Experienc
 
 ## Why are Experience Points (XP) needed?
 
-Players can use Experience Points to upgrade their [Lands and Tools](/nfts/lands-and-tools), or [Land and Tool Contracts](/nfts/land-and-tool-contracts), within the R.Land [Mining Game](/gaming/r.land-mining-game/) in order to increase their [Resource](resources-alloy-circuit-pixel-rgas) production, as well as the duration of their mining sessions. \
-\
+Players can use Experience Points to upgrade their [Lands and Tools](/nfts/lands-and-tools), or [Land and Tool Contracts](/nfts/land-and-tool-contracts), within the R.Land [Mining Game](/gaming/r.land-mining-game/) in order to increase their [Resource](resources-alloy-circuit-pixel-rgas) production, as well as the duration of their mining sessions. 
+
 If your [Contract](/nfts/land-and-tool-contracts) level reaches level 1 000 (or higher) you can receive ownership of your [Lands and Tools](/nfts/lands-and-tools), by either trading them in together with a matching [Bonus Ticket](/nfts/tickets.md#land-and-tool-bonus-tickets), or by purchasing the ownership with [BIT-Tokens](/bit-token). Learn more about [Obtaining Full Ownership From Contracts](/nfts/land-and-tool-contracts.md#obtaining-full-ownership-from-contracts).
 
 :::info

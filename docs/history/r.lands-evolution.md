@@ -7,9 +7,15 @@ sidebar_position: 1
 
 ## R.Land's 2022 Recap Montage
 
-{% embed url="https://www.youtube.com/watch?v=NwpgKs-_m2o" %}
+<!-- {% embed url="https://www.youtube.com/watch?v=NwpgKs-_m2o" %}
 R.Land's 2022 Recap
-{% endembed %}
+{% endembed %} -->
+<iframe style={{width:"100%", aspectRatio: "16/9"}} 
+src="https://www.youtube.com/embed/NwpgKs-_m2o" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
 
 ## The Beginning: Discord Mining (Late 2021)
 
@@ -19,11 +25,11 @@ You already earned [Experience Points (XP)](/tokenomics/in-game-tokens/experienc
 
 <div>
 
-<center><img src="/img/Discord Mining 2.jpg" alt="" /><figcaption><p>Discord Mining Process</p></figcaption></center>
+<center><img src="/img/Discord_Mining_2.jpg" alt="" /><figcaption><p>Discord Mining Process</p></figcaption></center>
 
  
 
-<center><img src="/img/Discord Mining.jpg" alt="" /><figcaption><p>Discord Mining Success</p></figcaption></center>
+<center><img src="/img/Discord_Mining.jpg" alt="" /><figcaption><p>Discord Mining Success</p></figcaption></center>
 
 </div>
 
@@ -33,13 +39,13 @@ After a few months of hard work by Dr. Baby Girl, the first webmining version 1.
 
 Later in the year, the [In-Game Token Markets](/tokenomics/in-game-token-markets) for [Experience Points (XP)](/tokenomics/in-game-tokens/experience-points-xp) and [Actions](/tokenomics/in-game-tokens/actions-sa-da) were added into the game, completely handing over the [In-Game Token](/tokenomics/in-game-tokens/) economy to the players.
 
-<center><img src="/img/RLand_Mining_Game Kopie.png" alt="" /><figcaption><p>R.Land Mining Game 1.0</p></figcaption></center>
+<center><img src="/img/RLand_Mining_Game_Kopie.png" alt="" /><figcaption><p>R.Land Mining Game 1.0</p></figcaption></center>
 
 ## Today: Web-Mining Game 2.0 (Early 2023)
 
 R.Land had to get ready for future cross-chain integration and other advanced features. This resulted in the need for a redesigned website and improved backend in order to untie the direct connection to the WAX blockchain and to allow the [R.Land In-Game Wallet](/essentials/creating-an-r.land-in-game-wallet) creation via e-mail and social media accounts.&#x20;
 
-<center><img src="/img/homepage full.PNG" alt="" /><figcaption><p>R.Land Mining Game 2.0</p></figcaption></center>
+<center><img src="/img/homepage_full.PNG" alt="" /><figcaption><p>R.Land Mining Game 2.0</p></figcaption></center>
 
 :::info
 Learn more about the R.Land [Mining Game](/gaming/r.land-mining-game/).

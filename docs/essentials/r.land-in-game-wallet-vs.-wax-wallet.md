@@ -30,15 +30,15 @@ Clicking on the balance menu will show a more detailed overview of your In-Game 
 <center><img src="/img/detailed_balance.PNG" alt="" /><figcaption><p>Example of detailed R.Land In-Game Wallet Balance</p></figcaption></center>
 
 :::success
-The R.Land In-Game Wallet is managed by R.Land's dedicated servers and is decoupled from the [WAX Blockchain](https://on.wax.io/wax-io/). Interaction with the blockchain only happens when depositing or withdrawing [BIT-Tokens](/tokenomics/bit-token). \
-\
+The R.Land In-Game Wallet is managed by R.Land's dedicated servers and is decoupled from the [WAX Blockchain](https://on.wax.io/wax-io/). Interaction with the blockchain only happens when depositing or withdrawing [BIT-Tokens](/tokenomics/bit-token). 
+
 As a result, playing R.Land requires only minimum resources to be staked to your WAX Wallet (CPU and NET) in order to process transactions, which is especially helpful for newcomers. Learn more about [Staking WAX for Blockchain Transactions](https://wax-io.medium.com/psa-understanding-cpu-usage-and-fluctuations-in-accordance-with-staking-on-wax-84f88ef03f5f).
 :::
 
 ## WAX Wallet
 
-The [WAX Could Wallet](https://all-access.wax.io/) (or other self-managed WAX Wallets like [Anchor](https://greymass.com/en/anchor/) or [Wombat](https://www.wombat.app/)) is a powerful but simple-to-use crypto wallet, that lets you log into any WAX Blockchain application (DApp's, such as R.Land) fast and seamlessly. It also allows you to use third-party marketplaces like [AtomicHub](https://wax.atomichub.io/market?collection\_name=rland\&order=desc\&sort=created\&symbol=WAX) or exchanges like [Alcor](https://alcor.exchange/).\
-\
+The [WAX Could Wallet](https://all-access.wax.io/) (or other self-managed WAX Wallets like [Anchor](https://greymass.com/en/anchor/) or [Wombat](https://www.wombat.app/)) is a powerful but simple-to-use crypto wallet, that lets you log into any WAX Blockchain application (DApp's, such as R.Land) fast and seamlessly. It also allows you to use third-party marketplaces like [AtomicHub](https://wax.atomichub.io/market?collection\_name=rland\&order=desc\&sort=created\&symbol=WAX) or exchanges like [Alcor](https://alcor.exchange/).
+
 Most of your R.Land assets will always remain stored in your personal WAX Wallet. The same applies to [BIT-Tokens](/tokenomics/bit-token) that have been withdrawn from your R.Land [In-Game Wallet](creating-an-r.land-in-game-wallet.md) or have been bought on a third-party exchange.
 
 <center><img src="/img/WCW.PNG" alt="" /><figcaption><p>The WAX Cloud Wallet</p></figcaption></center>

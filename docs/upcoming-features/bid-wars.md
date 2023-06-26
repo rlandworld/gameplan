@@ -16,23 +16,23 @@ In May 2022, the very first Bidding Event called "Bid Wars 1.0" took place on [R
 * **"Owner Shard Whale Pack" (**Highest sold for over 2k WAX)
 * **"Owner Shard Gold Pack"** (Highest sold for over 1k WAX)
 
-<center><img src="/img/Bid War#1 - Items.png" alt="" /><figcaption><p>Bid Wars 1.0</p></figcaption></center>
+<center><img src="/img/bid_war_item.png" alt="" /><figcaption><p>Bid Wars 1.0</p></figcaption></center>
 
 You might think this sounds like an auction for the rich? WRONG! The "Bid Wars 1.0" was designed to be a mini-game where ANYONE could be the final winner:
 
-<center><img src="/img/Bid War#1 - Rules.png" alt="" /><figcaption><p>The rules for the "Bid War 1.0". These very likely will be tweaked on the next ocassion.</p></figcaption></center>
+<center><img src="/img/bid_war_rules.png" alt="" /><figcaption><p>The rules for the "Bid War 1.0". These very likely will be tweaked on the next ocassion.</p></figcaption></center>
 
 **Still sounds too hard?** There was another option to win as well:
 
 Once per day, the system picked a random bidder to win a free R.Land [Booster Pack](/nfts/packs.md#booster-pack)!
 
 :::info
-**How did the Auto-Bid system work?**\
-\
-The Auto-Bid system was an optional way to play the "Bid Wars" event, where the system automatically did the bidding for players until they run out of [BIT-Tokens](/tokenomics/bit-token).\
-\
-The system didn't show when a player would run out, and it didn't show when a bid was placed to make it more exciting and fun for everyone. You never knew when others players bids might run out, creating the potential to win at any time. Bids were randomly placed every 1 - 60 seconds with at least 1 bid per minute. \
-\
+**How did the Auto-Bid system work?**
+
+The Auto-Bid system was an optional way to play the "Bid Wars" event, where the system automatically did the bidding for players until they run out of [BIT-Tokens](/tokenomics/bit-token).
+
+The system didn't show when a player would run out, and it didn't show when a bid was placed to make it more exciting and fun for everyone. You never knew when others players bids might run out, creating the potential to win at any time. Bids were randomly placed every 1 - 60 seconds with at least 1 bid per minute. 
+
 This system will be tweaked for future events!
 :::
 

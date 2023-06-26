@@ -60,8 +60,8 @@ BIT-NFTs will get burned when traded in for [BIT-Tokens](/tokenomics/bit-token)!
 
 ## Trading in BIT-NFTs for Tool Contracts
 
-BIT-NFTs can be traded in for [Tool Contracts](land-and-tool-contracts.md) by using the dedicated user interface on [R.Land](https://r.land/tradein).  \
-\
+BIT-NFTs can be traded in for [Tool Contracts](land-and-tool-contracts.md) by using the dedicated user interface on [R.Land](https://r.land/tradein).  
+
 [Tool Contracts](land-and-tool-contracts.md) can be used to mine [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) in the R.Land [Mining Game](/gaming/r.land-mining-game/).
 
 ![Getting Tool Contracts](</img/BIT\_NFT\_to\_Contract_Kopie.jpg>)

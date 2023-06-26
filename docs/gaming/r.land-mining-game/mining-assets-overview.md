@@ -9,11 +9,11 @@ sidebar_position: 6
 
 ## Tool Contracts
 
-<center><img src="/img/Tool_Info_New Kopie.jpg" alt="" /><figcaption><p>Tool and Tool Contract characteristics for each rarity</p></figcaption></center>
+<center><img src="/img/Tool_Info_New_Kopie.jpg" alt="" /><figcaption><p>Tool and Tool Contract characteristics for each rarity</p></figcaption></center>
 
 ## Land Contracts
 
-<center><img src="/img/Land Info New Kopie.jpg" alt="" /><figcaption><p>Land Contract characteristics for each rarity</p></figcaption></center>
+<center><img src="/img/Land_Info_New_Kopie.jpg" alt="" /><figcaption><p>Land Contract characteristics for each rarity</p></figcaption></center>
 
 :::info
 These [Contract](/nfts/land-and-tool-contracts) properties are identical for owned [Lands](/nfts/lands-and-tools.md#lands) and [Tools](/nfts/lands-and-tools.md#tools), with the exception of the [Rental Fees](/nfts/land-and-tool-contracts.md#rental-fees) and ownership costs.

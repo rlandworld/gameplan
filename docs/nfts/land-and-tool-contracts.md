@@ -23,20 +23,20 @@ Compared to [Public Mining (Free-To-Play)](/gaming/r.land-mining-game/public-min
 
 There are two different types of Contracts available:
 
-* **Land Contracts:**\
-  \
-  Owning [Land Contracts ](land-and-tool-contracts.md#how-to-get-land-contracts)gives you the _right_ to mine [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) on individual [Lands ](lands-and-tools.md#lands)in the R.Land [Mining Game.](/gaming/r.land-mining-game/) \
-  \
-  They are available in four different variants (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'orange' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark>, <mark style={{ color:'blue' }}>Pixel</mark>) and six different rarities ("Common" to "Mythic"). \
-  \
+* **Land Contracts:**
+
+  Owning [Land Contracts ](land-and-tool-contracts.md#how-to-get-land-contracts)gives you the _right_ to mine [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) on individual [Lands ](lands-and-tools.md#lands)in the R.Land [Mining Game.](/gaming/r.land-mining-game/) 
+
+  They are available in four different variants (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'orange' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark>, <mark style={{ color:'blue' }}>Pixel</mark>) and six different rarities ("Common" to "Mythic"). 
+
   Just like owned [Lands](lands-and-tools.md#lands), they can be [Upgraded](/gaming/r.land-mining-game/upgrading) to significantly increase their mining capacity (current max. level is 100 000), but a certain percentage of the mining proceeds will automatically be deducted as a [Rental Fee](land-and-tool-contracts.md#contract-rental-fees) depending on the Contract's rarity.\
 
-* **Tool Contracts:**\
-  \
-  Owning [Tool Contracts](land-and-tool-contracts.md#how-to-get-tool-contracts) gives you the _right_ to mine [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) with dedicated [Tools ](lands-and-tools.md#tools)in the R.Land [Mining Game.](/gaming/r.land-mining-game/) \
-  \
-  They are available in six different rarities ("Common" to "Mythic"). \
-  \
+* **Tool Contracts:**
+
+  Owning [Tool Contracts](land-and-tool-contracts.md#how-to-get-tool-contracts) gives you the _right_ to mine [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) with dedicated [Tools ](lands-and-tools.md#tools)in the R.Land [Mining Game.](/gaming/r.land-mining-game/) 
+
+  They are available in six different rarities ("Common" to "Mythic"). 
+
   Just like owned [Tools](lands-and-tools.md#tools), they can be [Upgraded](/gaming/r.land-mining-game/upgrading) to increase their mining output and mining duration significantly (current max. level is 100 000), but a certain percentage of the mining proceeds will automatically be deducted as a [Rental Fee](land-and-tool-contracts.md#contract-rental-fees) depending on the Contract's rarity.
 
 :::success

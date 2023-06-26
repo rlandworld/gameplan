@@ -7,14 +7,15 @@ sidebar_position: 1
 
 # 🟧 Resources (Alloy,Circuit,Pixel,rGas)
 
-<div align="center">
+<div class="fixthis">
 
+<center>
 <img src="/img/Alloy.webp" alt="Alloy" />
-
+</center>
  
-
+<center>
 <img src="/img/Circuit.webp" alt="Circuit" />
-
+</center>
  
 
 <center><img src="/img/Pixel.webp" alt="" /><figcaption><p>Pixel</p></figcaption></center>
@@ -27,8 +28,8 @@ sidebar_position: 1
 
 ## What are Resources?
 
-The four basic elements in R.Land - <mark style={{ color:'orange' }}>Alloy</mark>, <mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'blue' }}>Pixel</mark> and <mark style={{ color:'red' }}>rGas</mark> - are called "Resources". \
-\
+The four basic elements in R.Land - <mark style={{ color:'orange' }}>Alloy</mark>, <mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'blue' }}>Pixel</mark> and <mark style={{ color:'red' }}>rGas</mark> - are called "Resources". 
+
 They can be used to create [BIT-Tokens](/bit-token) and will play a prominent role in the upcoming R.Land [Crafting Game](/upcoming-features/r.land-crafting-game).
 
 Resources can be generated either _actively_ by playing the R.Land [Mining Game](/gaming/r.land-mining-game/) or _passively_ by simply holding [Owner Shards (OS)](/nfts/owner-shards-os) in your [WAX Wallet](/essentials/r.land-in-game-wallet-vs.-wax-wallet). You can also obtain Resources directly by depositing [BIT-Tokens](/bit-token) into your [In-Game Wallet](/essentials/r.land-in-game-wallet-vs.-wax-wallet).
@@ -44,7 +45,7 @@ For example:&#x20;
 * _**12x**_ <mark style={{ color:'green' }}>Circuit</mark>, 24x <mark style={{ color:'orange' }}>Alloy</mark>, 23x <mark style={{ color:'red' }}>rGas</mark> & 42x <mark style={{ color:'blue' }}>Pixel</mark> = _**12x**_ BIT-Token
 * 700x <mark style={{ color:'green' }}>Circuit</mark>, 139x <mark style={{ color:'orange' }}>Alloy</mark>, 256x <mark style={{ color:'red' }}>rGas</mark> & _**99x**_ <mark style={{ color:'blue' }}>Pixel</mark> = _**99x**_ BIT-Tokens
 
-<center><img src="/img/Resource Balance.PNG" alt="" /><figcaption><p>Example of Resources- and BIT-Balance <br/>in your R.Land In-Game Wallet</p></figcaption></center>
+<center><img src="/img/Resource_Balance.PNG" alt="" /><figcaption><p>Example of Resources- and BIT-Balance <br/>in your R.Land In-Game Wallet</p></figcaption></center>
 
 ## Why are Resources needed?
 

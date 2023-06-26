@@ -7,21 +7,27 @@ sidebar_position: 4
 
 # 🚀 Boosters
 
-<div>
+<div class="flex gap-2">
 
-<center><img src="/img/x8_day.webp" alt="" /><figcaption><p>Mythic 8x Day Booster</p></figcaption></center>
-
+<div class="flex flex-col items-center">
+    <img src="/img/x8_day.webp" alt="" />
+    <p>Mythic 8x Day</p>
+</div>
  
+<div class="flex flex-col items-center">
+    <img src="/img/x8_week.webp" alt="" />
+    <p>Mythic 8x Week</p>
+</div>
 
-<center><img src="/img/x8_week.webp" alt="" /><figcaption><p>Mythic 8x Week Booster</p></figcaption></center>
-
+<div class="flex flex-col items-center">
+    <img src="/img/x8_month.webp" alt="" />
+    <p>Mythic 8x Month</p>
+</div>
  
-
-<center><img src="/img/x8_month.webp" alt="" /><figcaption><p>Mythic 8x Month Booster</p></figcaption></center>
-
- 
-
-<center><img src="/img/x8_once.webp" alt="" /><figcaption><p>Mythic 8x Once Booster</p></figcaption></center>
+<div class="flex flex-col items-center">
+    <img src="/img/x8_once.webp" alt="" />
+    <p>Mythic 8x Once</p>
+</div>
 
 </div>
 
@@ -45,7 +51,7 @@ Boosters are available on [AtomicHub](https://wax.atomichub.io/market?collection
 
 ## Rarities
 
-<center><img src="/img/All Booster Rarities comp.png" alt="" /><figcaption><p>All Four Booster Rarities (Rare, Epic, Legendary, Mythic) In "Month" Variant</p></figcaption></center>
+<center><img src="/img/All_Booster_Rarities_comp.png" alt="" /><figcaption><p>All Four Booster Rarities (Rare, Epic, Legendary, Mythic) In "Month" Variant</p></figcaption></center>
 
 Boosters are available in four different rarities, with each rarity providing a different boost multiplier:
 
@@ -57,12 +63,12 @@ Boosters are available in four different rarities, with each rarity providing a 
 | Mythic         | 8x         |
 
 :::success
-Boosters with low mint numbers (#1 - #100) provide an additional bonus muliplier on top of their regular multiplier (increase of 0.01x with each lower mint number), starting at:\
-\
-**+0.01x multiplier for mint #100** \
-\
-and increasing linearly up to:\
-\
+Boosters with low mint numbers (#1 - #100) provide an additional bonus muliplier on top of their regular multiplier (increase of 0.01x with each lower mint number), starting at:
+
+**+0.01x multiplier for mint #100** 
+
+and increasing linearly up to:
+
 **+1.00x  multiplier for mint #1**&#x20;
 :::
 

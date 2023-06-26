@@ -7,18 +7,17 @@ sidebar_position: 5
 
 # 📅 Daily Actions-NFTs
 
+<div class="flex justify-center gap-2">
 <div>
-
-<img src="/img/1.webp" alt="Daily Actions NFT (Mint #1)" />
-
- 
-
-<img src="/img/593.webp" alt="Daily Actions NFT (Mint #593)" />
-
- 
-
-<center><img src="/img/1004 DA (1).webp" alt="" /><figcaption><p>Bonus Daily Action NFT (Mint #1004)</p></figcaption></center>
-
+    <img src="/img/1.webp" alt="Daily Actions NFT (Mint #1)" />
+</div>
+<div>
+    <img src="/img/593.webp" alt="Daily Actions NFT (Mint #593)" />
+</div>
+<div>
+    <img src="/img/1004_DA_(1).webp" alt="" />
+    <p>Bonus Daily Action NFT</p>
+</div>
 </div>
 
 ## What are Daily Actions-NFTs?&#x20;
@@ -35,7 +34,7 @@ Daily Actions-NFTs are dedicated assets used to provide additional [Daily Action
 
 Each Daily Actions-NFT grants the player a set amount of [Daily Actions](/tokenomics/in-game-tokens/actions-sa-da), matching the number displayed on the respective NFT. This number, in turn, is equivalent to the NFT's mint number.&#x20;
 
-For example: \
+For example<br/>
 A Daily Actions-NFT with mint number #1 will provide 1 [Daily Action](/tokenomics/in-game-tokens/actions-sa-da), while mint number #1000 will provide 1000 [Daily Actions](/tokenomics/in-game-tokens/actions-sa-da).
 
 :::info
