@@ -7,22 +7,23 @@ sidebar_position: 1
 
 # 💎 Owner Shards (OS)
 
+<div class="flex justify-center gap-2 flex-wrap">
 <div>
-
-<center><img src="/img/Honeycam 2023-01-13 16-19-37.webp" alt="" /><figcaption><p>Mythic <mark style={{ color:'green' }}>Circuit</mark> OS</p></figcaption></center>
-
- 
-
-<center><img src="/img/Honeycam 2023-01-13 16-19-22.webp" alt="" /><figcaption><p>Mythic <mark style={{ color:'yellow' }}>Alloy</mark> OS</p></figcaption></center>
-
- 
-
-<center><img src="/img/Honeycam 2023-01-13 16-19-55.webp" alt="" /><figcaption><p>Mythic <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></center>
-
- 
-
-<center><img src="/img/Honeycam 2023-01-13 16-19-47.webp" alt="" /><figcaption><p>Mythic <mark style={{ color:'blue' }}>Pixel</mark> OS</p></figcaption></center>
-
+    <img src="/img/Honeycam_2023-01-13_16-19-37.webp" alt="" />
+    <p>Mythic <mark style={{ color:'green' }}>Circuit</mark> OS</p>
+</div>
+<div>
+    <img src="/img/Honeycam_2023-01-13_16-19-22.webp" alt="" />
+    <p>Mythic <mark style={{ color:'orange' }}>Alloy</mark> OS</p>
+</div>
+<div>
+    <img src="/img/Honeycam_2023-01-13_16-19-55.webp" alt="" />
+    <p>Mythic <mark style={{ color:'red' }}>rGas</mark> OS</p>
+</div>
+<div>
+    <img src="/img/Honeycam_2023-01-13_16-19-47.webp" alt="" />
+    <p>Mythic <mark style={{ color:'blue' }}>Pixel</mark> OS</p>
+</div>
 </div>
 
 ## What are Owner Shards?
@@ -65,7 +66,8 @@ Owner Shards also provide you with free [Daily Actions](/tokenomics/in-game-toke
 
 ## Variants
 
-Owner Shards are available in four different variants. Each variant encapsulates and represents one of four different [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) used in R.Land (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'yellow' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> and <mark style={{ color:'blue' }}>Pixel</mark>).&#x20;
+Owner Shards are available in four different variants. Each variant encapsulates and represents one of four different [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) used in R.Land (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'orange' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> and <mark style={{ color:'blue' }}>Pixel</mark>).&#x20;
+
 
 ![Mythic Circuit OS](</img/Honeycam_2023-01-13_16-19-37.webp>) ![Mythic Alloy OS](</img/Honeycam_2023-01-13_16-19-22.webp>) ![Mythic rGas OS](</img/Honeycam_2023-01-13_16-19-55.webp>) ![Mythic Pixel OS](</img/Honeycam_2023-01-13_16-19-47.webp>)
 
@@ -75,30 +77,32 @@ Each different Owner Shard variant automatically produces its respective [Resour
 
 Each Owner Shard variant is available in six different rarities ranging from "Common" to "Mythic":&#x20;
 
+<div class="flex justify-center gap-1">
+
 <div>
-
-<center><img src="/img/rgas common.webp" alt="" /><figcaption><p>Common <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></center>
-
- 
-
-<center><img src="/img/rgas uncommon.webp" alt="" /><figcaption><p>Uncommon <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></center>
-
- 
-
-<center><img src="/img/rgas rare.webp" alt="" /><figcaption><p>Rare <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></center>
-
- 
-
-<center><img src="/img/rgas epic.webp" alt="" /><figcaption><p>Epic <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></center>
-
- 
-
-<center><img src="/img/rgas legendary.webp" alt="" /><figcaption><p>Legendary <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></center>
-
- 
-
-<center><img src="/img/rgas mythic.webp" alt="" /><figcaption><p>Mythic <mark style={{ color:'red' }}>rGas</mark> OS</p></figcaption></center>
-
+<img src="/img/rgas_common.webp" alt="" />
+<p>Common <mark style={{ color:'red' }}>rGas</mark> OS</p>
+</div>
+<div>
+<img src="/img/rgas_uncommon.webp" alt="" />
+<p>Uncom <mark style={{ color:'red' }}>rGas</mark> OS</p>
+</div>
+<div>
+<img src="/img/rgas_rare.webp" alt="" />
+<p>Rare <mark style={{ color:'red' }}>rGas</mark> OS</p>
+</div>
+<div>
+<img src="/img/rgas_epic.webp" alt="" />
+<p>Epic <mark style={{ color:'red' }}>rGas</mark> OS</p>
+</div>
+<div>
+<img src="/img/rgas_legendary.webp" alt="" />
+<p>Legendary <mark style={{ color:'red' }}>rGas</mark> OS</p>
+</div>
+<div>
+<img src="/img/rgas_mythic.webp" alt="" />
+<p>Mythic <mark style={{ color:'red' }}>rGas</mark> OS</p>
+</div>
 </div>
 
 Higher rarities provide additional [Benefits](owner-shards-os.md#benefits) and increase your daily [Resource](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) production:
@@ -112,7 +116,7 @@ Higher rarities provide additional [Benefits](owner-shards-os.md#benefits) and i
 | Legendary |            400x           |             Early Access             |
 |   Mythic  |           1500x           |   AtomicHub-Fees + **Super Secret**  |
 
-Same [Benefits](owner-shards-os.md#benefits) and [Resource](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) production rates apply to all four Owner Shard variants (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'yellow' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> and <mark style={{ color:'blue' }}>Pixel</mark>).
+Same [Benefits](owner-shards-os.md#benefits) and [Resource](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) production rates apply to all four Owner Shard variants (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'orange' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> and <mark style={{ color:'blue' }}>Pixel</mark>).
 
 ## Blending
 
@@ -142,7 +146,7 @@ Owner Shard Blending is available on [NeftyBlocks.](https://neftyblocks.com/c/rl
 
 ## Claiming
 
-[Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'yellow' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> and <mark style={{ color:'blue' }}>Pixel</mark>) produced by Owner Shards can be claimed anytime. However, there is a bonus reward for not claiming the produced [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) for a certain amount of time:
+[Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'orange' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> and <mark style={{ color:'blue' }}>Pixel</mark>) produced by Owner Shards can be claimed anytime. However, there is a bonus reward for not claiming the produced [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) for a certain amount of time:
 
 | Time Period without Claiming | Claim Bonus |
 | :--------------------------: | :---------: |
@@ -171,7 +175,7 @@ Once the maximum claim bonus (1 000%) is reached, Owner Shards will continue to 
 
 Owner Shards can be traded in for [Land Contracts](land-and-tool-contracts.md) by using the dedicated trade-in feature on [R.Land](https://r.land/tradein).&#x20;
 
-Simply trade-in an [Owner Shard](owner-shards-os.md) of any rarity or variant (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'yellow' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> or <mark style={{ color:'blue' }}>Pixel</mark>) and receive a [Land Contract](land-and-tool-contracts.md) of the same rarity and variant.
+Simply trade-in an [Owner Shard](owner-shards-os.md) of any rarity or variant (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'orange' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> or <mark style={{ color:'blue' }}>Pixel</mark>) and receive a [Land Contract](land-and-tool-contracts.md) of the same rarity and variant.
 
 [Land Contracts](land-and-tool-contracts.md) can be used to mine [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) more efficiently by actively playing in the R.Land [Mining Game](/gaming/r.land-mining-game/).
 

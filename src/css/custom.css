@@ -33,6 +33,11 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+mark {
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 2px 5px;
+  box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.75);
+}
 
 .socials-div {
   max-width: 100%;
@@ -63,6 +68,9 @@
 .flex {
   display: flex;
 }
+.flex-wrap {
+  flex-wrap: wrap;
+}
 .justify-center {
   justify-content: center;
 }
@@ -75,3 +83,4 @@
 .gap-2{
   gap: 1em;
 }
+

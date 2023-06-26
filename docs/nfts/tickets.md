@@ -9,7 +9,7 @@ sidebar_position: 8
 
 <center><img src="/img/ALL_OS_TICKETS.png" alt="" /><figcaption><p>Standard and Guaranteed Owner Shard Tickets</p></figcaption></center>
 
-<center><img src="/img/ALL_BONUS_LAND_TICKETS.png" alt="" /><figcaption><p>All Land Bonus Tickets from Common to Mythic (<mark style={{ color:'yellow' }}>Alloy</mark> Variant)</p></figcaption></center>
+<center><img src="/img/ALL_BONUS_LAND_TICKETS.png" alt="" /><figcaption><p>All Land Bonus Tickets from Common to Mythic (<mark style={{ color:'orange' }}>Alloy</mark> Variant)</p></figcaption></center>
 
 <center><img src="/img/ALL_BONUS_TOOL_TICKETS.png" alt="" /><figcaption><p>All Tool Bonus Tickets from Rare to Mythic</p></figcaption></center>
 
@@ -131,7 +131,7 @@ During the "Bonus Ticket Pre-Order Event", [Land](/nfts/lands-and-tools) Bonus T
 | Legendary         |  250 000 BIT  |
 | Mythic            | 1 000 000 BIT |
 
-Identical prices apply to all Land Bonus Ticket variants (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'yellow' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> or <mark style={{ color:'blue' }}>Pixel</mark>).
+Identical prices apply to all Land Bonus Ticket variants (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'orange' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> or <mark style={{ color:'blue' }}>Pixel</mark>).
 
 :::info
 Learn more about [Obtaining ownership from Contracts](land-and-tool-contracts.md#obtaining-ownership-from-contracts) using Bonus Tickets.

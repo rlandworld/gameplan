@@ -35,7 +35,7 @@ R.Land's very first sale, the [Owner Shard](owner-shards-os.md) Pack drop, took 
 R.Land started out as a community project based on the game "R-Planet". However, the scope of R.Land increased drastically over time and our project is now a completely independent metaverse.
 :::
 
-Inside these Packs, you will find [Owner Shards](owner-shards-os.md) in six different rarities (Common to Mythic) and four different variants ([<mark style={{ color:'green' }}>Circuit</mark>](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas), [<mark style={{ color:'yellow' }}>Alloy</mark>](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas), [<mark style={{ color:'red' }}>rGas</mark>](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) or [<mark style={{ color:'blue' }}>Pixel</mark>](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas)) according to the following table:
+Inside these Packs, you will find [Owner Shards](owner-shards-os.md) in six different rarities (Common to Mythic) and four different variants ([<mark style={{ color:'green' }}>Circuit</mark>](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas), [<mark style={{ color:'orange' }}>Alloy</mark>](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas), [<mark style={{ color:'red' }}>rGas</mark>](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) or [<mark style={{ color:'blue' }}>Pixel</mark>](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas)) according to the following table:
 
 ![The Owner Shard Pack Odds](</img/Packs_odds.png>)
 

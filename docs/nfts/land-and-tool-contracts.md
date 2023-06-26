@@ -27,7 +27,7 @@ There are two different types of Contracts available:
   \
   Owning [Land Contracts ](land-and-tool-contracts.md#how-to-get-land-contracts)gives you the _right_ to mine [Resources](/tokenomics/in-game-tokens/resources-alloy-circuit-pixel-rgas) on individual [Lands ](lands-and-tools.md#lands)in the R.Land [Mining Game.](/gaming/r.land-mining-game/) \
   \
-  They are available in four different variants (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'yellow' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark>, <mark style={{ color:'blue' }}>Pixel</mark>) and six different rarities ("Common" to "Mythic"). \
+  They are available in four different variants (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'orange' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark>, <mark style={{ color:'blue' }}>Pixel</mark>) and six different rarities ("Common" to "Mythic"). \
   \
   Just like owned [Lands](lands-and-tools.md#lands), they can be [Upgraded](/gaming/r.land-mining-game/upgrading) to significantly increase their mining capacity (current max. level is 100 000), but a certain percentage of the mining proceeds will automatically be deducted as a [Rental Fee](land-and-tool-contracts.md#contract-rental-fees) depending on the Contract's rarity.\
 
@@ -55,7 +55,7 @@ Want to get started? Get Contracts now! Available on [AtomicHub](https://wax.ato
 
 <center><img src="/img/All_Land_Contracts_rGas.jpg" alt="" /><figcaption><p>All Land Contract Rarities from Common to Mythic (<mark style={{ color:'red' }}>rGas</mark> Variant)</p></figcaption></center>
 
-To get access to a specific Land Contract variant (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'yellow' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> or <mark style={{ color:'blue' }}>Pixel</mark>), you need to trade in an [Owner Shard](owner-shards-os.md) of the corresponding variant. The rarity of the Land Contract will be the same as the rarity of the used [Owner Shard](owner-shards-os.md).
+To get access to a specific Land Contract variant (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'orange' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> or <mark style={{ color:'blue' }}>Pixel</mark>), you need to trade in an [Owner Shard](owner-shards-os.md) of the corresponding variant. The rarity of the Land Contract will be the same as the rarity of the used [Owner Shard](owner-shards-os.md).
 
 Example:
 
@@ -68,7 +68,7 @@ Example:
 |  Legendary            |  Legendary OS    |
 |  Mythic               |  Mythic OS       |
 
-All Land Contract variants (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'yellow' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> or <mark style={{ color:'blue' }}>Pixel</mark>) are obtainable in the same way. Simply trade in a corresponding [Owner Shard](owner-shards-os.md) and receive a Land Contract of the same type and rarity.
+All Land Contract variants (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'orange' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> or <mark style={{ color:'blue' }}>Pixel</mark>) are obtainable in the same way. Simply trade in a corresponding [Owner Shard](owner-shards-os.md) and receive a Land Contract of the same type and rarity.
 
 :::warning
 Trading in [Owner Shards](owner-shards-os.md) for Land Contracts will burn the respective NFTs!
@@ -124,7 +124,7 @@ For **Land Contracts**:
 | Legendary     |        14       |
 | Mythic        |        15       |
 
-Identical Rental Fees apply to all Land Contract variants (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'yellow' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> or <mark style={{ color:'blue' }}>Pixel</mark>).
+Identical Rental Fees apply to all Land Contract variants (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'orange' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> or <mark style={{ color:'blue' }}>Pixel</mark>).
 
 For **Tool Contracts**:
 
@@ -180,7 +180,7 @@ For Land Contracts:
 | Legendary     |                250 000                |
 | Mythic        |               1 000 000               |
 
-Identical purchase costs also apply to all Land Contract variants (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'yellow' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> or <mark style={{ color:'blue' }}>Pixel</mark>).
+Identical purchase costs also apply to all Land Contract variants (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'orange' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> or <mark style={{ color:'blue' }}>Pixel</mark>).
 
 For Tool Contracts:
 
@@ -205,7 +205,7 @@ Before purchasing ownership, make sure to have the required amount of [BIT-Token
 
 <div>
 
-<center><img src="/img/ticket_alloy_mythic-fd68cde1_comp (1).webp" alt="" /><figcaption><p><mark style={{ color:'yellow' }}>Alloy</mark> Land Bonus Ticket (Mythic)</p></figcaption></center>
+<center><img src="/img/ticket_alloy_mythic-fd68cde1_comp (1).webp" alt="" /><figcaption><p><mark style={{ color:'orange' }}>Alloy</mark> Land Bonus Ticket (Mythic)</p></figcaption></center>
 
  
 

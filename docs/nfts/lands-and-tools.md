@@ -17,7 +17,7 @@ Land NFTs are essential assets in the R.Land [Mining Game](/gaming/r.land-mining
 
 Consequently, mining on owned Lands has the potential to achieve a much higher mining output compared to mining with[ Land Contracts](land-and-tool-contracts.md) or the alternative [Public Mining (Free-To-Play)](/gaming/r.land-mining-game/public-mining-free-to-play). In addition, Land ownership also grants access to a multitude of additional [Ownership Benefits](lands-and-tools.md#ownership-benefits).
 
-Lands are available in four different variants (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'yellow' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> and <mark style={{ color:'blue' }}>Pixel</mark>) and six different rarities ("Common" to "Mythic"). All Lands can be [Upgraded](/gaming/r.land-mining-game/upgrading) to significantly increase their mining capacity (current max. level is 100 000).
+Lands are available in four different variants (<mark style={{ color:'green' }}>Circuit</mark>, <mark style={{ color:'orange' }}>Alloy</mark>, <mark style={{ color:'red' }}>rGas</mark> and <mark style={{ color:'blue' }}>Pixel</mark>) and six different rarities ("Common" to "Mythic"). All Lands can be [Upgraded](/gaming/r.land-mining-game/upgrading) to significantly increase their mining capacity (current max. level is 100 000).
 
 <div>
 
@@ -25,7 +25,7 @@ Lands are available in four different variants (<mark style={{ color:'green' }}>
 
  
 
-<center><img src="/img/alloy_mythic-225c5ec9_comp.webp" alt="" /><figcaption><p>Mythic Land (<mark style={{ color:'yellow' }}>Alloy</mark> Variant)</p></figcaption></center>
+<center><img src="/img/alloy_mythic-225c5ec9_comp.webp" alt="" /><figcaption><p>Mythic Land (<mark style={{ color:'orange' }}>Alloy</mark> Variant)</p></figcaption></center>
 
  
 
