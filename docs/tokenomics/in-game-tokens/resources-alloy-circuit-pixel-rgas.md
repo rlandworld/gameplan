@@ -11,10 +11,12 @@ sidebar_position: 1
 
 <center>
 <img src="/img/Alloy.webp" alt="Alloy" />
+<p>Alloy</p>
 </center>
  
 <center>
 <img src="/img/Circuit.webp" alt="Circuit" />
+<p>Circuit</p>
 </center>
  
 
