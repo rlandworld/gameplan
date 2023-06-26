@@ -33,17 +33,18 @@ const config = {
   },
 
   plugins: [
-    async function myPlugin(context, options) {
-      return {
-        name: "docusaurus-tailwindcss",
-        concenterPostCss(postcssOptions) {
-          // Appends TailwindCSS and AutoPrefixer.
-          postcssOptions.plugins.push(require("tailwindcss"));
-          postcssOptions.plugins.push(require("autoprefixer"));
-          return postcssOptions;
-        },
-      };
-    },
+    // async function myPlugin(context, options) {
+    //   return {
+    //     name: "docusaurus-tailwindcss",
+    //     concenterPostCss(postcssOptions) {
+    //       // Appends TailwindCSS and AutoPrefixer.
+    //       postcssOptions.plugins.push(require("tailwindcss"));
+    //       postcssOptions.plugins.push(require("autoprefixer"));
+    //       return postcssOptions;
+    //     },
+    //   };
+    // },
+    'docusaurus-tailwindcss',
   ],
 
   presets: [
@@ -78,6 +79,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
       image: 'img/mine_resources.png',
       navbar: {
         title: 'R.Land',
