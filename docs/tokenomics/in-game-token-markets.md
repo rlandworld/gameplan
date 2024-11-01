@@ -26,10 +26,14 @@ Interacting with the In-Game Token Markets requires a certain amount of [Actions
 * Withdrawing [BIT-Tokens](bit-token.md) requires 1 Action per 1 000 [BIT-Tokens](bit-token.md) being withdrawn.
 * Buying [BIT-Tokens](bit-token.md) is currently free!
 
+:::success
+Actions Fees are subject to change based on the voting of [Owner Shards](/nfts/owner-shards-os) holders!
+:::
+
 :::info
 Each In-Game Token Market transaction also includes a 3% pool fee.
 :::
 
-:::success
-Actions Fees are subject to change based on the voting of [Owner Shards](/nfts/owner-shards-os) holders!
+:::info
+The charting solution is provided by [TradingView](https://www.tradingview.com/markets/cryptocurrencies/global-charts/), a platform for traders and investors with advanced analytical tools such as crypto market cap charts and high-performance market data which helps watch the [BTC USD](https://www.tradingview.com/symbols/BTCUSD/) price and more.
 :::

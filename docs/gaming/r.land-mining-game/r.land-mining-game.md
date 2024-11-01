@@ -26,3 +26,5 @@ In the following chapters we will guide you through everything you need to know 
 :::success
 Want to learn more about R.Land's assets before diving into the [Mining Basics](mining-basics.md)? Head to the R.Land [NFTs](/nfts) section.
 :::
+
+* The charting solution is provided by [TradingView](https://www.tradingview.com/markets/cryptocurrencies/global-charts/), a platform for traders and investors with advanced analytical tools such as crypto market cap charts and high-performance market data which helps watch the [BTC USD](https://www.tradingview.com/symbols/BTCUSD/) price and more.
